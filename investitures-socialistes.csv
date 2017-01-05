@@ -42,7 +42,6 @@ Code,Département,Circo.,Candidat(e) désigné(e)
 69,Rhône,14,BLEIN Yves
 74,Haute-Savoie,4,FAVRELLE Anne
 74,Haute-Savoie,5,BAUD Jean Baptiste
-,Département,Circo.,Candidat(e) désigné(e)
 21,Côte d'Or,1,ZIVKOVIC Sladana
 21,Côte d'Or,2,PRIBETICH Pierre
 25,Doubs,1,ROMAGNAN Barbara
@@ -58,7 +57,6 @@ Code,Département,Circo.,Candidat(e) désigné(e)
 71,Saône-et-Loire,5,SIRUGUE Christophe
 90,Territoire-de-Belfort,1,COURTY Arthur
 90,Territoire-de-Belfort,2,CLAVEQUIN  Maude
-,Département,Circo.,Candidat(e) désigné(e)
 22,Côtes d'Armor,1,LESAGE Michel
 22,Côtes d'Armor,2,LE DISSEZ Viviane
 22,Côtes d'Armor,4,LE HOUÉROU Annie
@@ -80,7 +78,6 @@ Code,Département,Circo.,Candidat(e) désigné(e)
 35,Ille-et-Vilaine,8,COUET Emmanuel
 56,Morbihan,2,LE SQUER Stéphanie
 56,Morbihan,5,ROUILLARD Gwendal
-,Département,Circo.,Candidat(e) désigné(e)
 18,Cher,1,BEZOUI Céline
 18,Cher,2,SINSOULIER Agnès
 18,Cher,3,GALUT Yann
@@ -98,9 +95,7 @@ Code,Département,Circo.,Candidat(e) désigné(e)
 45,Loiret,4,GABORET Jalila
 45,Loiret,5,STROMBONI Thierry
 45,Loiret,6,CORRE Valérie
-,Département,Circo.,Candidat(e) désigné(e)
 2B,Corse,1,DE GENTILI Emmanuelle
-,Département,Circo.,Candidat(e) désigné(e)
 08,Ardennes,2,LEONARD Christophe
 08,Ardennes,3,HERBILLON Didier
 10,Aube,1,PROVIN Emmanuel
@@ -132,7 +127,6 @@ Code,Département,Circo.,Candidat(e) désigné(e)
 88,Vosges,1,FRANCOIS Martine
 88,Vosges,3,SPEISSMANN Stessy
 88,Vosges,4,FRANQUEVILLE Christian
-,Département,Circo.,Candidat(e) désigné(e)
 02,Aisne,3,BRICOUT Jean Louis
 59,Nord,1,LAMY François
 59,Nord,2,LINKENHELD Audrey
@@ -164,7 +158,6 @@ Code,Département,Circo.,Candidat(e) désigné(e)
 62,Pas-de-Calais,12,BAYS Nicolas
 80,Somme,1,BOISTARD Pascale
 80,Somme,5,LUCAS Benjamin
-,Département,Circo.,Candidat(e) désigné(e)
 75,Paris,1,VERON Pauline
 75,Paris,2,ROSSET Marine
 75,Paris,3,LEPETIT Annick
@@ -244,7 +237,6 @@ Code,Département,Circo.,Candidat(e) désigné(e)
 95,Val-d'Oise,6,PESTIE Guyslaine
 95,Val-d'Oise,9,BROUSSY Luc
 95,Val-d'Oise,10,LEFEBVRE Dominique
-,Département,Circo.,Candidat(e) désigné(e)
 14,Calvados,1,VEVE Eric
 14,Calvados,2,DUMONT Laurence
 14,Calvados,4,MADELAINE Xavier
@@ -261,7 +253,6 @@ Code,Département,Circo.,Candidat(e) désigné(e)
 76,Seine-Maritime,8,TROALLIC Catherine
 76,Seine-Maritime,9,GRELIER Estelle
 76,Seine-Maritime,10,THEVENOT Jean Pierre
-,Département,Circo.,Candidat(e) désigné(e)
 16,Charente,1,PINVILLE Martine
 16,Charente,2,REYNAUD Marianne
 16,Charente,3,LAMBERT Jérôme
@@ -301,7 +292,6 @@ Code,Département,Circo.,Candidat(e) désigné(e)
 87,Haute-Vienne,1,LAFAYE Laurent
 87,Haute-Vienne,2,MORIZIO Annick
 87,Haute-Vienne,3,BEAUBATIE Catherine
-,Département,Circo.,Candidat(e) désigné(e)
 9,Ariège,1,ESTEBAN Martine
 9,Ariège,2,FAURE Alain
 11,Aude,1,GINIES Alain
@@ -342,7 +332,6 @@ Code,Département,Circo.,Candidat(e) désigné(e)
 81,Tarn,1,BEDIER Patrice
 81,Tarn,2,FITA Claire
 82,Tarn-et-Garonne,1,RABAULT Valérie
-,Département,Circo.,Candidat(e) désigné(e)
 44,Loire-Atlantique,2,ROBERT Alain
 44,Loire-Atlantique,3,DANIEL Karine
 44,Loire-Atlantique,4,RAIMBOURG Dominique
@@ -365,7 +354,6 @@ Code,Département,Circo.,Candidat(e) désigné(e)
 85,Vendée,2,BULTEAU Sylviane
 85,Vendée,3,PITALIER Anthony
 85,Vendée,5,FOURAGE Hugues
-,Département,Circo.,Candidat(e) désigné(e)
 04,Alpes de Haute-Provence,1,BAGARRY Delphine
 04,Alpes de Haute-Provence,2,CASTANER Christophe
 05,Hautes-Alpes,1,BERGER Karine
@@ -392,14 +380,12 @@ Code,Département,Circo.,Candidat(e) désigné(e)
 84,Vaucluse,3,VALADIER Céline
 84,Vaucluse,4,THIBAUD Marlène
 84,Vaucluse,5,LOVISOLO Jean François
-,Département,Circo.,Candidat(e) désigné(e)
 974,Réunion,1,BAREIGTS Ericka
 974,Réunion,2,NANA IBRAHIM Salim
 974,Réunion,3,VLODY Jean Jacques
 974,Réunion,5,LECONSTANT Philippe
 974,Réunion,6,ORPHE Monique
 974,Réunion,7,GOBALOU Virginie
-,Département,Circo.,Candidat(e) désigné(e)
 999,FEHDF,1,CHANTREL Yann
 999,FEHDF,2,BAILLON Florence
 999,FEHDF,3,LEMAIRE Axelle
