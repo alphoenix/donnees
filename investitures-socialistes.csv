@@ -1,0 +1,410 @@
+Code,Département,Circo.,Candidat(e) désigné(e)
+01,Ain,3,SACCHI Géraldine
+03,Allier,1,ALEXANDRE Magali
+03,Allier,2,BRIEN NIcolas
+07,Ardèche,1,TERRASSE Pascal
+07,Ardèche,2,DUSSOPT Olivier
+07,Ardèche,3,BUIS Sabine
+15,Cantal,1,CALMETTE Alain
+26,Drôme,1,VEYRET Jean-Pierre
+26,Drôme,2,MALRIC Isabelle
+26,Drôme,3,ROCHAS Pascale
+26,Drôme,4,JOUVET Pierre
+38,Isère,1,VERAN Olivier
+38,Isère,2,VERRI Pierre
+38,Isère,3,DESTOT Michel
+38,Isère,4,BATTISTEL Marie Noelle
+38,Isère,5,GIRAUD Eliane
+38,Isère,7,LIMON CHARPONAY Monique
+38,Isère,8,BINET Erwann
+38,Isère,10,HUILLIER Joelle
+42,Loire,1,JUANICO Régis
+42,Loire,3,KIZIRIAN Philippe
+42,Loire,4,JUBAN Laurence
+42,Loire,5,DUMOULIN Brigitte
+43,Haute-Loire,1,FARISON Fabrice
+43,Haute-Loire,2,MIALON Josiane
+63,Puy-de-Dôme,1,AUDET Cécile
+63,Puy-de-Dôme,2,PIRES BEAUNE Christine
+63,Puy-de-Dôme,3,BELLONTE Alphonse
+63,Puy-de-Dôme,4,MAISONNET Sylvie
+63,Puy-de-Dôme,5,BETENFELD Gérard
+69,Rhône,2,JULIEN-LAFERRIERE Hubert
+69,Rhône,3,TOURAINE Jean Louis
+69,Rhône,4,BRUGNERA Anne
+69,Rhône,5,VERPILLOT Natacha
+69,Rhône,6,VALLAUD BELKACEM Najat
+69,Rhône,7,GAUQUELIN Renaud
+69,Rhône,10,GIONTARELLI Jocelyne
+69,Rhône,11,JOASSARD Jules
+69,Rhône,12,CHIZAT David
+69,Rhône,13,BERGAME Françoise
+69,Rhône,14,BLEIN Yves
+74,Haute-Savoie,4,FAVRELLE Anne
+74,Haute-Savoie,5,BAUD Jean Baptiste
+,Département,Circo.,Candidat(e) désigné(e)
+21,Côte d'Or,1,ZIVKOVIC Sladana
+21,Côte d'Or,2,PRIBETICH Pierre
+25,Doubs,1,ROMAGNAN Barbara
+25,Doubs,4,BARBIER Frédéric
+39,Jura,1,DUVERNET Marc Henri
+39,Jura,3,BARTHOULOT Françoise
+58,Nièvre,1,GORCE Gaetan
+58,Nièvre,2,PAUL Christian
+71,Saône-et-Loire,1,N'DIAYE Catherine
+71,Saône-et-Loire,2,BACCOT Philomène
+71,Saône-et-Loire,3,BAUMEL Philippe
+71,Saône-et-Loire,4,UNTERMAIER Cécile
+71,Saône-et-Loire,5,SIRUGUE Christophe
+90,Territoire-de-Belfort,1,COURTY Arthur
+90,Territoire-de-Belfort,2,CLAVEQUIN  Maude
+,Département,Circo.,Candidat(e) désigné(e)
+22,Côtes d'Armor,1,LESAGE Michel
+22,Côtes d'Armor,2,LE DISSEZ Viviane
+22,Côtes d'Armor,4,LE HOUÉROU Annie
+22,Côtes d'Armor,5,ERHEL Corinne
+29,Finistère,1,URVOAS Jean-Jacques
+29,Finistère,2,ADAM Patricia
+29,Finistère,4,BUI Gwenegan
+29,Finistère,5,GUITTET RAISON Chantal
+29,Finistère,6,FERRAND Richard
+29,Finistère,7,CROM Florence
+29,Finistère,8,QUERNEZ Michaël
+35,Ille-et-Vilaine,1,CHAPDELAINE Marie Anne
+35,Ille-et-Vilaine,2,ANDRO Gaelle
+35,Ille-et-Vilaine,3,ANDRE François
+35,Ille-et-Vilaine,4,PICHOT Franck
+35,Ille-et-Vilaine,5,LENFANT Stéphane
+35,Ille-et-Vilaine,6,GAUTIER LE BAIL Evelyne
+35,Ille-et-Vilaine,7,THIERRY Alexandra
+35,Ille-et-Vilaine,8,COUET Emmanuel
+56,Morbihan,2,LE SQUER Stéphanie
+56,Morbihan,5,ROUILLARD Gwendal
+,Département,Circo.,Candidat(e) désigné(e)
+18,Cher,1,BEZOUI Céline
+18,Cher,2,SINSOULIER Agnès
+18,Cher,3,GALUT Yann
+28,Eure-et-Loir,1,CORDIER Stéphane
+28,Eure-et-Loir,2,FAVERIS Nadia
+28,Eure-et-Loir,4,VERDIER Fabien
+36,Indre,2,BRUNEAU Isabelle
+37,Indre-et-Loire,1,GILLE Jean Patrick
+37,Indre-et-Loire,2,GAUDRON Isabelle
+37,Indre-et-Loire,3,TOURAINE Marisol
+37,Indre-et-Loire,4,BAUMEL Laurent
+41,Loir-et-Cher,1,ROBILIARD Denys
+41,Loir-et-Cher,2,GUENIN Didier
+45,Loiret,1,JOUIN Olivier
+45,Loiret,4,GABORET Jalila
+45,Loiret,5,STROMBONI Thierry
+45,Loiret,6,CORRE Valérie
+,Département,Circo.,Candidat(e) désigné(e)
+2B,Corse,1,DE GENTILI Emmanuelle
+,Département,Circo.,Candidat(e) désigné(e)
+08,Ardennes,2,LEONARD Christophe
+08,Ardennes,3,HERBILLON Didier
+10,Aube,1,PROVIN Emmanuel
+10,Aube,2,AIT KEDDACHE Audrey
+10,Aube,3,BLANCHON David
+51,Marne,1,TUNC Alexandre
+51,Marne,2,MANIANI Imane
+51,Marne,3,BELAREDJ TUNC Hadhoum
+51,Marne,4,NAMUR Rudy
+51,Marne,5,MUNSTER Linda
+52,Haute-Marne,2,DESFRETIER Antoine
+54,Meurthe-et-Moselle,1,KHIROUNI Chaynesse
+54,Meurthe-et-Moselle,2,FERON Hervé
+54,Meurthe-et-Moselle,3,ECKERT Christian
+54,Meurthe-et-Moselle,5,POTIER Dominique
+55,Meuse,1,MAC FARLANE Arnaud
+55,Meuse,2,DUMONT Jean Louis
+57,Moselle,1,FILIPETTI Aurélie
+57,Moselle,2,TOULOUZE Jean Michel
+57,Moselle,3,DE OLIVEIRA Nathalie
+57,Moselle,5,DUFFLO Angèle
+57,Moselle,6,KINNEL Jean Christophe
+57,Moselle,7,ZANETTI Paola
+57,Moselle,8,LIEBGOTT Michel
+57,Moselle,9,VAISSE Brigitte
+67,Bas-Rhin,1,ELKOUBY Eric
+67,Bas-Rhin,2,BIES Philippe
+67,Bas-Rhin,3,OEHLER Serge
+88,Vosges,1,FRANCOIS Martine
+88,Vosges,3,SPEISSMANN Stessy
+88,Vosges,4,FRANQUEVILLE Christian
+,Département,Circo.,Candidat(e) désigné(e)
+02,Aisne,3,BRICOUT Jean Louis
+59,Nord,1,LAMY François
+59,Nord,2,LINKENHELD Audrey
+59,Nord,3,PAUVROS Rémi
+59,Nord,4,HARQUET Philippe
+59,Nord,5,LEDUC Aude
+59,Nord,7,VIARD Hélène
+59,Nord,10,CHIGRI KERNAB Yasmina
+59,Nord,11,VICOT Roger
+59,Nord,13,EL KASSIMI Nozha
+59,Nord,14,DEVOS Christian
+59,Nord,15,LABITTE Michel
+59,Nord,16,DELANNOY Frédéric
+59,Nord,17,DUPUIS Agnès
+59,Nord,20,LOUREL Marcel
+59,Nord,21,LAURENT Christine
+60,Oise,3,LUCAS Johann
+60,Oise,7,OUIZILLE Alexandre
+62,Pas-de-Calais,1,COTTEL Jean Jacques
+62,Pas-de-Calais,2,MAQUET Jacqueline
+62,Pas-de-Calais,3,MASSON Frédérique
+62,Pas-de-Calais,4,DRAIN Blandine
+62,Pas-de-Calais,5,CUVILLIER Frédéric
+62,Pas-de-Calais,6,BOURGUIGNON Brigitte
+62,Pas-de-Calais,7,CAPET Yann
+62,Pas-de-Calais,8,PETIT Bertrand
+62,Pas-de-Calais,10,CAILLIAU Bernard
+62,Pas-de-Calais,11,KEMEL Philippe
+62,Pas-de-Calais,12,BAYS Nicolas
+80,Somme,1,BOISTARD Pascale
+80,Somme,5,LUCAS Benjamin
+,Département,Circo.,Candidat(e) désigné(e)
+75,Paris,1,VERON Pauline
+75,Paris,2,ROSSET Marine
+75,Paris,3,LEPETIT Annick
+75,Paris,4,DASSIE Fabrice
+75,Paris,5,DAGOMA Seybah
+75,Paris,6,OUMER Nawel
+75,Paris,7,BLOCHE Patrick
+75,Paris,8,MAZETIER Sandrine
+75,Paris,9,LE GUEN Jean Marie
+75,Paris,11,CHERKI Pascal
+75,Paris,12,SITBON Florian
+75,Paris,13,ROY Isabelle
+75,Paris,14,WEIL Pierre Alain
+75,Paris,15,PAU LANGEVIN George
+75,Paris,16,CAMBADELIS Jean Christophe
+75,Paris,17,BROSSEL Colombe
+75,Paris,18,EL KHOMRI Myriam
+77,Seine-et-Marne,1,ALIX Nicolas
+77,Seine-et-Marne,3,FAGES Marie Laure
+77,Seine-et-Marne,4,HUSSON Olivier
+77,Seine-et-Marne,6,MARGUERITE Bastien
+77,Seine-et-Marne,7,JABUT Stéphane
+77,Seine-et-Marne,8,RIHAN CYPEL Eduardo
+77,Seine-et-Marne,9,DELESSARD Monique
+77,Seine-et-Marne,10,MEADEL Juliette
+77,Seine-et-Marne,11,FAURE Olivier
+78,Yvelines,1,ROSSETTINI Charlotte
+78,Yvelines,2,ADJUWARD Amroze
+78,Yvelines,3,HUE Nicolas
+78,Yvelines,4,BELALA Monika
+78,Yvelines,5,VITRAC POUZOULET Michèle
+78,Yvelines,6,SILLY Angélique
+78,Yvelines,8,DESCAMPS CROSNIER Françoise
+78,Yvelines,9,MOHAMMAD Alie
+78,Yvelines,10,HUSSON Jean Claude
+78,Yvelines,11,HAMON Benoit
+78,Yvelines,12,BAS Marie Noelle
+91,Essonne,3,POUZOL Michel
+91,Essonne,4,GUIN Ophélie
+91,Essonne,5,OLIVIER Maud
+91,Essonne,6,GUEDJ Jérôme
+91,Essonne,9,COLAS Romain
+91,Essonne,10,BOUTIH Malek
+92,Hauts-de-Seine,1,BACHELAY Alexis
+92,Hauts-de-Seine,2,BARTHELEMY RUIZ Chantal
+92,Hauts-de-Seine,3,DAHAN Isabelle
+92,Hauts-de-Seine,4,BIGDADE Habiba
+92,Hauts-de-Seine,5,MESSAFTA Lies
+92,Hauts-de-Seine,6,BRANNENS Marie
+92,Hauts-de-Seine,8,LIME BIFFE Catherine
+92,Hauts-de-Seine,10,PUIJALON Thomas
+92,Hauts-de-Seine,11,SOMMARUGA Julie
+92,Hauts-de-Seine,12,GERMAIN Jean Marc
+92,Hauts-de-Seine,13,LANIER Benjamin
+93,Seine-St-Denis,1,LE ROUX Bruno
+93,Seine-St-Denis,2,HANOTIN Mathieu
+93,Seine-Saint-Denis,5,MERY FRITZ Valérie
+93,Seine-Saint-Denis,6,GUIGOU Elisabeth
+93,Seine-Saint-Denis,7,HAMMADI Razzy
+93,Seine-Saint-Denis,8,POCHON Elisabeth
+93,Seine-Saint-Denis,9,BARTOLONE Claude
+93,Seine-Saint-Denis,10,GOLDBERG Daniel
+93,Seine-Saint-Denis,12,POPELIN Pascal
+94,Val-de-Marne,1,VAGNIER Laurence
+94,Val-de-Marne,4,ZAIDANE Zakaria
+94,Val-de-Marne,5,ADOMO Caroline
+94,Val-de-Marne,6,BEDOURET Patrice
+94,Val-de-Marne,7,BRIDEY Jean Jacques
+94,Val-de-Marne,8,GALLAIS Sophie
+94,Val-de-Marne,9,CARVOUNAS Luc
+94,Val-de-Marne,11,LE BOUILLONNEC Jean Yves
+95,Val-d'Oise,1,NGUYEN DEROSIER Sandra
+95,Val-d'Oise,2,HADIZADEH Ayda
+95,Val-d'Oise,3,LEON Nelly
+95,Val-d'Oise,4,SEBAOUN Gérard
+95,Val-d'Oise,5,DOUCET Philippe
+95,Val-d'Oise,6,PESTIE Guyslaine
+95,Val-d'Oise,9,BROUSSY Luc
+95,Val-d'Oise,10,LEFEBVRE Dominique
+,Département,Circo.,Candidat(e) désigné(e)
+14,Calvados,1,VEVE Eric
+14,Calvados,2,DUMONT Laurence
+14,Calvados,4,MADELAINE Xavier
+27,Eure,2,DESTANS Jean-Louis
+27,Eure,3,HAKI Marie Claire
+27,Eure,5,SEGUELA Martine
+50,Manche,3,TRAVERT Stéphane
+76,Seine-Maritime,1,FOURNEYRON Valérie
+76,Seine-Maritime,3,PANE Luce
+76,Seine-Maritime,4,BACHELAY Guillaume
+76,Seine-Maritime,5,BOUILLON Christophe
+76,Seine-Maritime,6,LE VERN Marie
+76,Seine-Maritime,7,BRASSE Matthieu
+76,Seine-Maritime,8,TROALLIC Catherine
+76,Seine-Maritime,9,GRELIER Estelle
+76,Seine-Maritime,10,THEVENOT Jean Pierre
+,Département,Circo.,Candidat(e) désigné(e)
+16,Charente,1,PINVILLE Martine
+16,Charente,2,REYNAUD Marianne
+16,Charente,3,LAMBERT Jérôme
+17,Charente Maritime,3,MESNARD Françoise
+17,Charente Maritime,4,DUGAS RAVENEAU Fabienne
+19,Corrèze,1,COMBES Bernard
+19,Corrèze,2,NAUCHE Philippe
+23,Creuse,1,VERGNIER Michel
+24,Dordogne,1,MOYRAND Michel
+24,Dordogne,3,LANGLADE Colette
+24,Dordogne,4,DELRIEUX Benjamin
+33,Gironde,1,DOUCET Sandrine
+33,Gironde,3,CHARAI Naima
+33,Gironde,4,DAVID Alain
+33,Gironde,5,GOT Pascale
+33,Gironde,6,RECALDE Marie
+33,Gironde,7,GARRIGOU Bernard
+33,Gironde,9,SAVARY Gilles
+33,Gironde,11,LACOSTE Michèle
+33,Gironde,12,VEYSSY Catherine
+40,Landes,1,LAGRAVE Renaud
+40,Landes,2,BASLY LAPEGUE Christine
+40,Landes,3,VALLAUD Boris
+47,Lot-et-Garonne,1,LOUSTEAU Lucette
+47,Lot-et-Garonne,2,FEKL Matthias
+47,Lot-et-Garonne,3,MOLIERAC Guillaume
+64,Pyrénées-Atlantiques,1,MARBOT Jérôme
+64,Pyrénées-Atlantiques,2,CHABANNE Nathalie
+64,Pyrénées-Atlantiques,3,HABIB David
+64,Pyrénées-Atlantiques,5,CAPDEVIELLE Colette
+64,Pyrénées-Atlantiques,6,ALAUX Sylviane
+79,Deux-Sèvres,1,TRUONG Elodie
+79,Deux-Sèvres,2,BATHO Delphine
+79,Deux-Sèvres,3,BONNEAU Marc
+86,Vienne,2,PERSICO Patricia
+86,Vienne,3,CLEMENT Jean Michel
+87,Haute-Vienne,1,LAFAYE Laurent
+87,Haute-Vienne,2,MORIZIO Annick
+87,Haute-Vienne,3,BEAUBATIE Catherine
+,Département,Circo.,Candidat(e) désigné(e)
+9,Ariège,1,ESTEBAN Martine
+9,Ariège,2,FAURE Alain
+11,Aude,1,GINIES Alain
+11,Aude,2,FABRE Marie-Hélène
+11,Aude,3,VIOLA André
+12,Aveyron,1,VIDAL Sarah
+12,Aveyron,2,CAVALERIE Bertrand
+30,Gard,1,DUMAS Françoise
+30,Gard,2,GUYOT Katy
+30,Gard,3,EYSSERIC Catherine
+30,Gard,4,VERDIER Fabrice
+30,Gard,5,FRONTANAU Nelly
+31,Haute-Garonne,1,LEMORTON Catherine
+31,Haute-Garonne,2,BAPT Gérard
+31,Haute-Garonne,3,HARDY Isabelle
+31,Haute-Garonne,4,MARTINEL Martine
+31,Haute-Garonne,5,FLOUREUSSES Sandrine
+31,Haute-Garonne,6,POUPONNEAU Camille
+31,Haute-Garonne,7,TEMPESTA Marie Caroline
+31,Haute-Garonne,8,AVIRAGNET Joel
+31,Haute-Garonne,9,BORGEL Christophe
+31,Haute-Garonne,10,ARIF Kader
+32,Gers,1,DUPOUEY Francis
+32,Gers,2,BIEMOURET Gisèle
+34,Hérault,2,LE DAIN Anne Yvonne
+34,Hérault,3,DOMBRE COSTE Fanny
+34,Hérault,4,ROIG Frédéric
+34,Hérault,5,PASSIEUX Marie
+34,Hérault,7,DENAJA Sébastien
+34,Hérault,8,ASSAF Christian
+34,Hérault,9,VIGNAL Patrick
+46,Lot,2,LABARTHE Vincent
+65,Hautes-Pyrénées,1,GLAVANY Jean
+66,Pyrénées-Orientales,1,CRESTA Jaques
+66,Pyrénées-Orientales,2,SADOURNY Marie Pierre
+66,Pyrénées-Orientales,3,NEUVILLE Ségolène
+66,Pyrénées-Orientales,4,REYNAL Alexandre
+81,Tarn,1,BEDIER Patrice
+81,Tarn,2,FITA Claire
+82,Tarn-et-Garonne,1,RABAULT Valérie
+,Département,Circo.,Candidat(e) désigné(e)
+44,Loire-Atlantique,2,ROBERT Alain
+44,Loire-Atlantique,3,DANIEL Karine
+44,Loire-Atlantique,4,RAIMBOURG Dominique
+44,Loire-Atlantique,5,MENARD Michel
+44,Loire-Atlantique,6,DANIEL Yves
+44,Loire-Atlantique,7,BOYE Anne
+44,Loire-Atlantique,8,DENIAUD Laurianne
+44,Loire-Atlantique,10,ERRANTE Sophie
+49,Maine-et-Loire,1,BELOT Luc
+49,Maine-et-Loire,4,BABA Meriem
+49,Maine-et-Loire,5,ADRIEN BIGEON Laurence
+49,Maine-et-Loire,6,BARDY Serge
+49,Maine-et-Loire,7,CAMARA TOMBINI Sylvie
+53,Mayenne,1,GAROT Guillaume
+72,Sarthe,1,DUBOIS Françoise
+72,Sarthe,2,KARAMANLI Marietta
+72,Sarthe,3,CHAUVIN Nicolas
+72,Sarthe,5,ROUILLON Christophe
+85,Vendée,1,DREURE Cécile
+85,Vendée,2,BULTEAU Sylviane
+85,Vendée,3,PITALIER Anthony
+85,Vendée,5,FOURAGE Hugues
+,Département,Circo.,Candidat(e) désigné(e)
+04,Alpes de Haute-Provence,1,BAGARRY Delphine
+04,Alpes de Haute-Provence,2,CASTANER Christophe
+05,Hautes-Alpes,1,BERGER Karine
+06,Alpes-Maritimes,2,CARLIER Pierre Marie
+06,Alpes-Maritimes,5,GRAILLAT Chaama
+13,Bouches-du-Rhône,1,OREGGIA Gérard
+13,Bouches-du-Rhône,2,LEVY-MOZZICONACCI Annie
+13,Bouches-du-Rhône,3,DI MARINO Anne
+13,Bouches-du-Rhône,4,MENNUCCI Patrick
+13,Bouches-du-Rhône,5,CARLOTTI Marie-Arlette
+13,Bouches-du-Rhône,7,JIBRAYEL Henri
+13,Bouches-du-Rhône,9,HARKANE Stéphanie
+13,Bouches-du-Rhône,11,LENFANT Gaëlle
+13,Bouches-du-Rhône,12,ROVARINO Isabelle
+13,Bouches-du-Rhône,14,CIOT Jean-David
+13,Bouches-du-Rhône,16,MEBAREK Nora
+83,Var,1,GIES Valentin
+83,Var,2,MUSCHOTTI Cécile
+83,Var,3,SEEMULLER William
+83,Var,5,REZAGUI Insaf
+83,Var,6,LAUBLET Cécile
+83,Var,7,COSTE Jimmy
+84,Vaucluse,1,LAGRANGE Christine
+84,Vaucluse,3,VALADIER Céline
+84,Vaucluse,4,THIBAUD Marlène
+84,Vaucluse,5,LOVISOLO Jean François
+,Département,Circo.,Candidat(e) désigné(e)
+974,Réunion,1,BAREIGTS Ericka
+974,Réunion,2,NANA IBRAHIM Salim
+974,Réunion,3,VLODY Jean Jacques
+974,Réunion,5,LECONSTANT Philippe
+974,Réunion,6,ORPHE Monique
+974,Réunion,7,GOBALOU Virginie
+,Département,Circo.,Candidat(e) désigné(e)
+999,FEHDF,1,CHANTREL Yann
+999,FEHDF,2,BAILLON Florence
+999,FEHDF,3,LEMAIRE Axelle
+999,FEHDF,4,CORDERY Philip
+999,FEHDF,7,LE BORGN' Pierre Yves
+999,FEHDF,9,LE BRET Didier
+999,FEHDF,10,DAAD Naffi
+999,FEHDF,11,ASSANTE Matthias
