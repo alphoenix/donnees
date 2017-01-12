@@ -4,6 +4,6 @@ Protection des données personnelles, réglementation des VTC, scénarios fiscau
 
 ![Lobbying en Europe](./eu.svg)
 
-Les lois concernant le lobbying sont quasiment inexistantes en France. Personne ne répertorie les rencontres entre ceux qui écrivent les lois et les lobbyistes. Parcellairement, on peut reconstituer [quelques rencontres entre le pouvoir exécutif et les géants américains](./rencontres-france.csv). Les rencontres les plus médiatisés sont celles qui donnent un visage souriant à des heures de lobbying. La signature d'un contrat entre le ministère de l'Éducation nationale et Microsoft en xxx. La 
+Les lois concernant le lobbying sont quasiment inexistantes en France. Personne ne répertorie les rencontres entre ceux qui écrivent les lois et les lobbyistes. Parcellairement, on peut reconstituer [quelques rencontres entre le pouvoir exécutif et les géants américains](./rencontres-france.csv). Les rencontres les plus médiatisés sont celles qui donnent une conclusion souriante à des heures de lobbying : la signature d'un contrat entre le ministère de l'Éducation nationale et Microsoft en xxx ou l'accord entre Google et la presse française, signé en grande pompe à l'Élysée. Ce lobbying discret peut compter sur l'appui de certains serviteurs de l'État partis travailler pour Uber, Google ou Twitter.
 
 ![Lobbying en France](./fr.svg)
