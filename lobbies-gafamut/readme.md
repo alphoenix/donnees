@@ -4,7 +4,7 @@
 
 Protection des données personnelles, réglementation des VTC, scénarios fiscaux : les législations européennes et françaises peuvent avoir des effets importants sur les géants technologiques américains et leurs profits. Pour s'éviter des déconvenues budgétaires ou préparer la législation à leurs prochaines innovations, ces géants investissent dans le lobbying. Près de 13 millions d'euros [sont dépensés en lobbying par Google, Microsoft, Facebok, Apple, Amazon, Twitter et Uber](./lobbies.csv) chaque année au niveau européen.
 
-![Lobbying en Europe](./eu.png)
+![Lobbying en Europe](http://dev.alphoenix.net/eu.png)
 
 ### Les rencontres des commissaires
 
@@ -22,7 +22,7 @@ Notre compilation ne prend pas cependant pas en compte les associations auxquell
 
 Les lois concernant le lobbying sont quasiment inexistantes en France. Personne ne répertorie les rencontres entre ceux qui écrivent les lois et les lobbyistes. Parcellairement, nous avons reconstitué [quelques rencontres entre le pouvoir exécutif et les géants américains](./rencontres-france.csv). Depuis le début du quinquennat, nous avons pu identifier 68 rencontres, dont un tiers sont entre Google et l'exécutif français. Les rencontres les plus médiatisés sont celles qui donnent une conclusion souriante à des heures de lobbying : la signature d'un contrat entre le ministère de l'Éducation nationale et Microsoft en 2015 ou l'accord entre Google et la presse française, signé en grande pompe à l'Élysée en février 2013.
 
-![Lobbying en France](./fr.png)
+![Lobbying en France](http://dev.alphoenix.net/fr.png)
 
 ### Portes tambour
 
@@ -43,6 +43,7 @@ Concernant les rencontres avec les dirigeants et les lobbyistes, Axelle Lemaire,
 
 ## Retrouvez l'ensemble des données pour cette enquête
 Les données concernent les entreprises Google, Apple, Facebook, Amazon, Microsoft, Twitter et Uber. Les données françaises concernent la période de juin 2012 à décembre 2016. Les données européennes courent de novembre 2014 à décembre 2016.
+
 1. [État des lieux des lobbyistes des géants américains](./lobbies.csv)
 2. [Rencontres entre les commissaires européens, leurs cabinets et les lobbyistes](./rencontres-europe.csv)
 3. [Rencontres (parcellaires) entre le gouvernement français et les lobbyistes](./rencontres-france.csv)
