@@ -1,5 +1,7 @@
 # L'influence tentaculaire des géants américains
 
+[Alexandre Léchenet](http://alphoenix.net) et [BiG](http://big.paris)
+
 ## Des relations documentées en Europe
 
 Protection des données personnelles, réglementation des VTC, scénarios fiscaux : les législations européennes et françaises peuvent avoir des effets importants sur les géants technologiques américains et leurs profits. Pour s'éviter des déconvenues budgétaires ou préparer la législation à leurs prochaines innovations, ces géants investissent dans le lobbying. Près de 13 millions d'euros [sont dépensés en lobbying par Google, Microsoft, Facebok, Apple, Amazon, Twitter et Uber](./lobbies.csv) chaque année au niveau européen. Google et Microsoft sont ceux qui annoncent des budgets annuels consacrés aux activités de lobbying en Europe les plus importants, avec des dépenses entre 4,25 millions d'euros et 4,5 millions d'euros chaque année.
@@ -42,7 +44,7 @@ Microsoft est la seule entreprise parmi celles étudiées à avoir reçu au nive
 
 Concernant les rencontres avec les dirigeants et les lobbyistes, Axelle Lemaire, secrétaire d'État au numérique, [publiait jusqu'à la moitié de l'année 2016 son agenda en ligne](https://openagenda.com/axelle-lemaire). Cette bonne habitude, qui permettait de facilement suivre son travail s'est hélas arrêtée. Il a fallu éplucher de nombreux pdf d'agenda, pas forcément tous conservés, pour retrouver l'agenda de chaque ministre depuis le début du quinquennat. Quant aux parlementaires, rien ne permet de suivre leurs rendez-vous. La loi Sapin 2, relative à la transparence et à la lutte contre la corruption, votée à l'été 2016 [ne prévoit qu'un registre des lobbyistes](http://www.la-croix.com/Economie/France/La-Sapin-2-rabotee-Conseil-constitutionnel-2016-12-09-1200809313). Des modalités bien pauvres, [si l'on compare avec les Etats-Unis et le Canada](http://www.hatvp.fr/la-thematheque/panorama-des-dispositifs-dencadrement-du-lobbying/). Cette transparence permettrait pourtant [de comprendre plus facilement les intérêts de chacun dans les législations en discussion](https://www.wired.com/2015/07/google-facebook-amazon-lobbying/).
 
-**Textes et recherche** : Alexandre Léchenet
+**Textes et recherche** : [Alexandre Léchenet](http://alphoenix.net)
 **Infographie** : [BiG](http://big.paris)
 
 ## Retrouvez l'ensemble des données pour cette enquête
