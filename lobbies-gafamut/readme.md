@@ -27,6 +27,7 @@ Les lois concernant le lobbying sont quasiment inexistantes en France. Personne 
 ### Portes tambour
 
 Ce lobbying discret peut compter sur l'appui de certains serviteurs de l'État [partis travailler pour Uber, Google ou Twitter](./parcours.csv) : c'est ce qu'on appelle les portes tambour. Nous avons analysé le parcours – principalement grâce à LinkedIn, propriété de Microsoft – d'une vingtaine de personnes passées du public à ces entreprises. Ainsi, en 2015, Uber [a recruté l'ancien conseiller en communication du secrétaire d'État aux transports](http://abonnes.lemonde.fr/economie/article/2015/06/11/un-conseiller-du-ministere-des-transports-devient-directeur-de-la-communication-d-uber-france_4652082_3234.html), quand Facebook [peut compter sur un ancien conseiller de Nicolas Sarkozy à l'Élysée](http://abonnes.lemonde.fr/technologies/article/2013/04/25/laurent-solly-un-sarko-boy-a-la-tete-de-facebook-france_3166862_651865.html).
+
 Ces transferts [ne sont presque pas encadrés](http://www.liberation.fr/france/2016/10/19/les-transferts-de-membres-de-cabinets-ministeriels-ou-presidentiels-peu-transparents_1522984) et quasiment toujours acceptés. Un encadrement, et une transparence sur les critères, permettrait de s'assurer que l'employé ne tire pas profit de son temps dans le public. Les échanges en «portes-tambour» peuvent encourager les échanges de bons procédés entre les grandes entreprises et le secteur public. 
 
 ### Les liens de Microsoft
@@ -34,6 +35,7 @@ Ces transferts [ne sont presque pas encadrés](http://www.liberation.fr/france/2
 Depuis 2012, Microsoft a signé plusieurs des contrats et conventions. 
 * [Une convention a été signée avec le ministère du Logement en janvier 2014](http://etudiant.aujourdhui.fr/etudiant/info/youthspark-le-plan-de-microsoft-pour-aider-300-000-jeunes-et-les-former-vers-le-numerique.html). Accord signé à l'époque avec Constance Parodi, responsable de la «politique de citoyenneté» chez Microsoft, qui est désormais conseillère de la maire de Paris.
 * [En novembre 2015, c'est le ministère de l'Éducation nationale qui signait un partenariat avec Microsoft](http://www.education.gouv.fr/cid96030/numerique-a-l-ecole-partenariat-entre-le-ministere-de-l-education-nationale-et-microsoft.html). Le partenariat incite les enseignants et écoliers à utiliser les logiciels de Microsoft. Il a été contesté par des associations libristes, [mais elles ont été déboutées](https://www.nextinpact.com/news/101392-rejet-recours-contre-partenariat-entre-microsoft-et-ministere-education-nationale.htm). 
+
 Microsoft est la seule entreprise parmi celles étudiées à avoir reçu au niveau européen des subventions et à être bénéficiaire de marchés publics, pour un montant de 23 millions d'euros.
 
 ### Des progrès à faire
