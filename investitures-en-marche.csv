@@ -1,42 +1,28 @@
 nom,genre,code_circo,code_dpt,circo
-Alexandre Aïdara,H,93_6,93,6
-Laetitia Avia,F,75_8,75,8
-Jean-Michel Fauvergue,H,77_8,77,8
-Mounir Mahjoubi,H,75_16,75,16
-Sandrine Morch,F,31_9,31,9
-Jean-Baptiste Moreau,H,23_1,23,1
-Valérie Oppelt,F,44_2,44,2
-Matthieu Orphelin,H,49_1,49,1
-Hugues Renson,H,75_13,75,13
-Caroline Reverso-Meinietti,F,06_1,6,1
-Mireille Robert,F,11_3,11,3
-Claire Tassadit Houd,F,28_2,28,2
-Elisabeth Toutut-Picard,F,31_7,31,7
-Jean Viard,H,84_5,84,5
-Laurent MALLET,H,1_1,1,1
-Marie-Jeanne BÉGUET,F,1_2,1,2
-Olga GIVERNET,F,1_3,1,3
-Stéphane TROMPILLE,H,1_4,1,4
-Hélène DE MEIRE,F,1_5,1,5
-Aude BONO,F,2_1,2,1
-Pauline RIVIERE,F,3_1,3,1
-Laurence VANCEUNEBROCK-MIALON,F,3_2,3,2
-Bénédicte PEYROL,F,3_3,3,3
-Delphine BAGARRY,F,4_1,4,1
-Christophe CASTANER,H,4_2,4,2
-Pascale BOYER,F,5_1,5,1
-Caroline REVERSO-MEINIETTI,F,6_1,6,1
-Alexandra VALETTA ARDISSON,F,6_4,6,4
-Nathalie AUDIN,F,6_6,6,6
-Khaled BEN ABDERAHMANE,H,6_7,6,7
-Philippe BUERCH,H,6_8,6,8
-Dominique FILLEBEEN,H,6_9,6,9
-Laurette GOUYET-POMMARET,F,7_2,7,2
-Matthieu PEYRAUD,H,7_3,7,3
-Jean Pierre MORALI,H,8_1,8,1
-Mario IGLESIAS,H,8_2,8,2
-Christelle VORILLION,F,8_3,8,3
-Huguette BERTRAND VINZERICH,F,9_2,9,2
+Laurent MALLET,H,01_1,1,1
+Marie-Jeanne BÉGUET,F,01_2,1,2
+Olga GIVERNET,F,01_3,1,3
+Stéphane TROMPILLE,H,01_4,1,4
+Hélène DE MEIRE,F,01_5,1,5
+Aude BONO,F,02_1,2,1
+Pauline RIVIERE,F,03_1,3,1
+Laurence VANCEUNEBROCK-MIALON,F,03_2,3,2
+Bénédicte PEYROL,F,03_3,3,3
+Delphine BAGARRY,F,04_1,4,1
+Christophe CASTANER,H,04_2,4,2
+Pascale BOYER,F,05_1,5,1
+Caroline REVERSO-MEINIETTI,F,06_1,6,1
+Alexandra VALETTA ARDISSON,F,06_4,6,4
+Nathalie AUDIN,F,06_6,6,6
+Khaled BEN ABDERAHMANE,H,06_7,6,7
+Philippe BUERCH,H,06_8,6,8
+Dominique FILLEBEEN,H,06_9,6,9
+Laurette GOUYET-POMMARET,F,07_2,7,2
+Matthieu PEYRAUD,H,07_3,7,3
+Jean Pierre MORALI,H,08_1,8,1
+Mario IGLESIAS,H,08_2,8,2
+Christelle VORILLION,F,08_3,8,3
+Huguette BERTRAND VINZERICH,F,09_2,9,2
 Gregory BESSON-MOREAU,H,10_1,10,1
 Djamila HADDAD,F,10_2,10,2
 Danièle HERIN,F,11_1,11,1
