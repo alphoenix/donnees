@@ -1,0 +1,514 @@
+code_circo,TG,SG,Titulaire,Suppléant
+01_1,F,H,Fabrine MARTIN ZEMLIK,Serge TISSOT
+01_2,F,H,Sylviane THIEBAULT,Dominique COLAS
+01_3,H,F,Christian JOLIE,Virginie Polsinelli
+01_4,F,H,Line HUGUET,Cédric Raffin
+01_5,H,F,Bertrand Jacquier,Nora Kerzazi
+02_1,H,F,Jean-Marc Chamblay,Maryline Pierrot
+02_2,F,H,Sarah Lempereur,Bastien Blanchart
+02_4,H,F,Régis POMMEROLLE,SYLVIE HEYVAERTS
+02_5,H,F,Omar Fenardji,Isabelle Lambert
+03_1,H,F,Frédéric Desnoix,Michelle Kapala
+03_2,H,F,Sylvain Bourdier,Emmanuelle Michon
+03_3,F,H,Marie-Thérèse Dupuis,Geoffrey Ortuno
+04_1,F,H,Emmanuelle Gaziello,Eric Vuoso
+04_2,H,F,Laurent WALTER,Evelyne BLANC
+05_1,F,,Eléonore Flandin, 
+05_2,F,H,Audrey Vincent-Nedelec,Christophe Tassaux
+06_1,H,F,Yannick ARHAN,Liliane Dotta
+06_2,F,F,Sonia Naffati,Pierre-Emmanuelle Jeanne Somer
+06_3,H,F,Bruno COULET,Claude Dalbera
+06_4,F,H,Zohra Briand,Didier PLAGNOL
+06_5,H,F,Philippe PELLEGRINI,Christine Evain
+06_6,F,H,Prune Helfter-Noah,Stéphane Pons
+06_7,H,F,Philippe Carenzo,Michèle Charles
+06_8,F,H,Maddy VARD,Luc Biasso
+06_9,H,F,Denis LEBLANC,Christine Le Bouteiller
+07_1,H,F,Paul Raoul,Luisa Sanchez
+07_2,F,H,Samia HASNAOUI,Jacques Deplace
+07_3,H,F,Alain JOFFRE,Florence Pallot
+08_1,F,,Françoise Verlhac, 
+08_2,H,F,Michel Cartiaux,Marie-Corinne GILLET née DOLEZ
+08_3,F,,Sophie Perrin, 
+09_1,F,H,Bénédicte Taurine,Marcel Lopez
+09_2,H,F,Michel Larive,Ingrid Lavoine
+10_1,H,F,Alexandre Faou,Julie Lapeyre
+10_2,F,H,Elise Géhin,André Smolarz
+10_3,H,F,Yves BOUTEILLER,Janny Borca
+11_1,F,,Marine Toro, 
+11_2,H,F,Jean-Hugues SILBERMAN,NADINE SANCHEZ
+11_3,F,H,Manon LE BRETTON,Jean-Didier Carré
+12_1,H,,Pierre-Arnaud Defontaines, 
+12_2,H,F,Pascal Mazet,Céline Hebeisen
+12_3,F,H,Catherine LAUR,Théo Ollivier--Triquet
+13_1,H,F,Bernard Borgialli,Marie-Hélène RICE
+13_10,H,F,Jacques Charton,Michelle Blanchard
+13_11,F,H,Claudie HUBERT,Guillaume DALLA COSTA
+13_12,H,F,Damien Merono,Nathalie MICHELUCCI epouse CHABRAND
+13_13,H,F,Fabrice Aubert,Stella APEDDU
+13_14,F,H,Hélène Le Cacheux,Jean-Yves Salvat
+13_15,F,H,Michèle JUNG  (titulaire),Jean-Pierre 
+13_16,H,,Gérard GERON, 
+13_2,F,H,Ariane Gil,Michel Rabillé
+13_3,F,H,SARAH SOILIHI,Raymond Lopez
+13_4,H,,Jean-Luc Mélenchon, 
+13_5,H,F,Hendrik Davi,Anne Mandine
+13_6,F,H,Annie Gal,Mikaël Balmont
+13_7,H,F,Ouali BRINIS,Armelle Rioualen
+13_8,F,,Nadia GRAINDORGE, 
+13_9,F,H,Sylvie Pille-Lesou,Eric Remen
+14_1,F,H,Karinne GUALBERT,Alexandre Besselievre
+14_2,H,,ETIENNE BRASSELET, 
+14_3,H,F,Didier Canu,Sylvie Busato Cozzi
+14_4,H,,Stéphane Poussier, 
+14_6,H,F,Paul Demeilliers,Annie Lepinette
+15_1,H,F,Thierry Bonhoure,Benoite Favre
+16_1,F,H,Martine Boutin,Daniel GAUTIER
+16_2,F,H,Nathalie Jabli,Grégoire Feybesse
+16_3,F,H,Véronique Bachelier Gregori,Laurent ROUSSEL
+17_1,H,F,Cédric Ruffié,Yhlem Dekkiche
+17_2,F,H,Maud Assila,Christophe Geffré
+17_3,H,F,Rémy Catrou,Maryvonne Filipovitch
+17_4,F,H,Lucie Kirchner,Tony Launay
+17_5,H,F,Geoffrey Lebreton,Marie-Claude Marlin
+18_1,H,F,Frederic Renard,Corinne Trussardi
+18_2,F,H,Souade Kastani,Thierry Lopez
+18_3,H,H,Jean Riffet,Patricia Guéhenneux
+19_1,H,F,Jean-Marc Vareille,Lucrèce La Chenardière
+19_2,F,H,Selin Ersoy,Roland Rupage
+21_1,H,F,Arnaud Guvenatam,Natacha Camus
+21_2,H,F,Patricia Marc,SYLVAINE AMALRIC
+21_3,H,F,Boris Obama,Catherine DREMEAU
+21_4,H,F,Stéphane GUINOT,Brigitte Mindus
+21_5,F,,Elisabeth Kremer, 
+22_1,F,H,Marion Gorgiard,Philippe Guégan
+22_2,H,F,Didier GIFFRAIN,ANDREE  CLAIRE BAZIN
+22_3,H,F,Ronan Glaziou,Christelle Marcq
+22_4,F,H,Murielle LEPVRAUD,Henri DUCLUT
+22_5,F,H,Marie-Amélie Troadec,Romain Hipeau
+23_1,F,H,Laurence Pache,Laurent Sauvajon
+24_1,F,,Hélène Reys, 
+24_2,H,,Pascal Dumeste,Chrystel Boutillier
+24_3,H,,Philippe Guillerme, 
+24_4,F,H,Emilie Chalard,Luis Ferreyra
+25_1,F,H,Habiba Delacour,José Gahona
+25_2,F,H,Claire Arnoux,Daniel CONVERSY
+25_3,H,F,Christophe Espolio,Morgane Paulet
+25_4,F,H,Nadia Barznica,Christian Millet
+25_5,F,H,Martine Ludi,Ivan Bouday
+26_1,F,,Karine Messina, 
+26_2,F,H,Rachel Mahé,gilles reynaud
+26_3,H,F,Didier Thévenieau,Hélène Lacheret
+26_4,F,H,Emmanuelle OULD AOUDIA,Jean-Bernard SUCHEL
+27_1,H,F,Michaël Després,Cécile Soulignac
+27_2,F,H,Nathalie PACOURET,Jean-Paul BOITEUX
+27_5,H,F,Pierre ZIMMERMANN,Laurence FILIPPINI
+28_1,F,,Juliette Bayanski, 
+28_2,H,F,Jean-Michel DEJENNE,Agnès Cueille
+28_3,H,F,Régis REBOUL,Isabelle Goupy
+28_4,F,,Sophie Sinatti, 
+29_1,F,H,Jugdeep Harvinder,Benjamin Toutant
+29_2,H,F,Pierre-Yves Cadalen,Cécile Beaudouin
+29_3,F,H,Christine Panaget,Bertrand SEYS
+29_4,H,F,Julien Kerguillec,Diane CHEVAIS
+29_5,F,,Karine Demoulin, 
+29_6,H,F,Jean Michel LUCAS,Lauriane Feyeux
+29_7,H,F,Roland JAOUEN,Isabelle Loeffel
+29_8,H,F,Emmanuel Magnan,Annie Perron
+2A_1,H,F,Jacques Casamarta,Christine Malfroy
+2B_1,F,F,Catherine Laurenti,Claude Franceschi
+2B_2,H,H,Jean Moghraoui,Amélie Raffeali
+30_1,F,H,Yannick Battefort,Mohammed El Marouani
+30_2,F,H,Danielle FLOUTIER,Benoît Ode
+30_3,F,H,Geneviève Sabathé,Charlotte Montels
+30_4,F,H,Lucie Rousselou,Thomas Champigny
+30_5,H,,Guillaume Roiron, 
+30_6,F,H,Karine VOINCHET,Arnaud VALENTIN
+31_1,F,H,CLAIRE DUJARDIN,Pascal FRAPPEREAU
+31_10,F,H,Monique Fabre,Kévin Grenèche
+31_2,F,H,Anne Stambach-Terrenoir,Romain BARTHES
+31_3,H,F,Gilles Naudy,Agathe Roby
+31_4,H,F,Liem Hoang Ngoc,Marie-Hélène Sistac
+31_5,F,H,SYLVIE ESPAGNOLLE-LABRUNE,Olivier Doumerg
+31_6,F,F,Patrick Jimena,Nadine STOLL
+31_7,H,F,Christophe BEX,Lauren Baron
+31_8,H,F,Philippe GIMENEZ,Sophie Lechat
+31_9,H,F,Manuel Bompard,Laure Tachoires
+32_1,H,F,Pascal Penetro,Sophie Buys
+32_2,F,H,Myriam Rimbert,Richard Tancogne
+33_1,F,H,Evelyne Cervantes,WILLIAM VANDELANNOOTE
+33_10,F,H,Eloïse Bajou,Clément Brun
+33_11,H,H,Joëlle Losson,Rémi Lebas de Lacour
+33_12,H,,Christophe Miqueu, 
+33_2,H,F,Camille Douberchtein-Grigorieff,Aude DARCHY
+33_3,H,F,Loïc Prudhomme,Tiphaine Maurin
+33_4,F,H,Maud Besson,Eric BAREYT
+33_5,F,H,Martine Calvo,Jean-Louis BOUTEILA
+33_6,F,H,Marie Duret-Pujol,Grégory Teychon
+33_7,F,H,Hélène Richard,Jean-Luc Boisseau
+33_8,F,H,Cecile Coti,Jean-Pierre DiMeo
+33_9,H,,François Papiaud, 
+34_1,H,F,Julien Colet,Anne-Rose Le Van
+34_2,F,H,Muriel RESSIGUIER,René REVOL
+34_3,H,F,Stéphane VIDAL,Marie MONCADA
+34_4,H,,Etienne Hayem, 
+34_5,H,F,Serge Azaïs,Anne Roux
+34_6,F,H,Sandrine Dumaisnil,David Garcia
+34_7,F,H,Marie-Hélène LECLERCQ,Arnaud CAMBON
+34_8,F,H,Martine - Marielle Monfort,Jean-Marie Pourtier
+34_9,F,H,IMANE DIANI,Jean-Luc MOULETTE
+35_1,H,F,Patrick Bergogné,caroline Frydman
+35_2,H,F,Louis Fricker,Sabine ANQUETIL-LELEU
+35_4,F,H,Alexandra Vandenbossche,Marc Martin
+35_5,H,F,Mickaël Hugonnet,Laure Aumon
+35_6,F,H,Hélène Mocquard,Nino Tocco
+35_7,H,F,Nicolas CHEVALLIER,Céline Coucaud
+35_8,F,H,Enora Le Pape,Dan Jensen
+36_1,F,H,Corinne Keller,Jean-Baptiste Auger
+36_2,H,F,Marie-Lionel THURA,Sophie Winandy
+37_1,H,F,Claude Bourdin,Inès Yamba-Tambikissa
+37_2,H,,Frédéric Nobileau, 
+37_3,F,H,Sylvie Adolphe,Jean-Marie BONNET
+37_4,F,,Nadia Vezin, 
+37_5,F,H,Constance ASCAR,Stéphane Renaud
+38_1,F,H,Caroline Schreiber,Tristan Sanchez
+38_10,H,F,Thierry Monchatre-Jacquot,Véronique Chouvy
+38_2,F,F,Taha Bouhafs,Valérie Neyreneuf
+38_3,H,F,Raphaël Briot,Raphaëlle Raban Revel
+38_4,H,F,Laurent Viallard,Françoise Meynier
+38_5,H,F,Patrice BRUN,Marine Haurillon
+38_6,H,F,Michael Aydin,Sylviane Nouet
+38_7,F,H,Valérie Bono,Aurélien Delsaux
+38_8,F,H,Myriam Thieulent,Fabien Juglair
+38_9,F,H,Marie-Pierre Micoud,Christian Toillier
+39_1,H,F,Gabriel Amard,Géraldine Revy
+39_2,F,H,Julie Lançon,Bruno Ragot
+39_3,H,F,Jean-Bernard Marcuzzi,Claudine Roueff
+40_1,F,H,Céline PIOT,stéphane BECART-PERRIER
+40_2,F,H,Caroline Dacharry,Bertrand Lataillade
+40_3,H,F,Philippe DUBOURG,Josette Boulanger
+41_1,F,H,Kenza Belliard,Jeremie Fassot
+41_2,H,F,Yvon Chery,Mireille Garnier
+42_1,F,H,Corinne OUMAKHLOUF,DAVID JAMONAC
+42_2,F,H,Andrée TAURINYA,Bruno DOLIK
+42_3,H,F,LOUIS CAILLON,Michelle Verrier
+42_4,H,F,Léo CHAVAS,Joëlle de Alamo
+42_5,H,F,Dominique Flachat,Véronique Rakose-Truchet
+42_6,F,H,Sadia Nadia Seghir,Sylvain Begon
+43_1,F,H,Martine DEJEAN,Didier Gagnaire
+43_2,H,F,Lionel Bouton,Nicole Riou
+44_1,F,,Sylvie Clabecq, 
+44_10,F,H,Gaëlle Cardona,Guilhem Bato
+44_2,F,H,Carole Malard,Gilles Dagorne
+44_3,F,H,Martine Gourdon,Pierre Haie
+44_4,H,F,Vincent EGRON,Catherine Chastan
+44_5,F,H,Katell ANDROMAQUE,Mathias Gauthier
+44_6,F,F,Juliette Coanet,Brigitte Maillet
+44_7,F,H,CATHERINE LEGAL,Jim Delémont
+44_8,H,F,Joël Lemarié,Sabrina Touplain
+44_9,F,H,Liliane Vaillant,Jean-Marie Cosson
+45_1,F,H,Anne Sophie Leguin,Jean-Paul Vasquez
+45_2,H,F,Olivier Hicter,Karin Fischer
+45_3,H,F,Kévin MERLOT,Françoise Causse
+45_5,F,H,Marie AGAM,Patrick Goinaud
+45_6,H,F,Jérôme SCHMITT,Véronique Seltz
+46_1,F,H,Isabelle Eymes,Merzouk SIDER
+46_2,H,F,Pierre Dufour,CHANTAL GRIN
+47_1,F,,Céline Boussié, 
+47_2,H,F,Youssef Sadir,Magaly Castagnier
+47_3,H,F,Rémy GARNIER,Anne Colas
+48_1,H,F,Christian CAUSSE,Claude Soudan
+49_1,F,H,Manon Cantin,William Duménil
+49_2,F,H,Tiphaine Prier,Sofian Nait-Bouda
+49_3,H,F,Georges Chabrier,Sabrina Girault
+49_4,F,F,France Moreau,Caroline Bessat
+49_5,H,F,Kévin Certenais,Elisabeth Allain
+49_6,F,H,Maryline Fonteneau-Grelet,Bruno Ciofi
+49_7,H,F,Olivier Dupuis,Léa pouleau
+50_1,H,F,Aurélien Marion,Martine Danjou
+50_2,H,F,Patrick GRIMBERT,Claudine Santier
+50_3,H,F,Bernard Rebolle,Karin Lacroix
+50_4,F,H,Yvonne Pecoraro,André JACQUES
+51_1,F,H,Laure MANESSE,Gaspar Pierre
+51_2,H,F,Victorien Pâte,Lucie Beirweiller
+51_3,H,F,Roland JACQUES,Marianne Siedlecki
+51_4,F,H,Claudine Lang,Thibaut FONTAINE
+51_5,F,,Laurène Massicard, 
+52_1,F,H,Ariane Walaszek,Benjamin MOREL
+52_2,H,F,Daniel MONNIER,ELISABETH BECKER
+53_1,H,F,Nicolas Chomel,Claire Forgin
+54_1,H,,Nordine Jouira, 
+54_2,F,H,Nassima Faiq,Matthieu Ziegler
+54_3,F,H,Marie Legus,Patrice Zolfo
+54_4,H,F,Vincent Guenaire-Doazan,Véronique Nobili
+54_5,H,F,Rodolphe Bauer,CLAIRE Prignon
+54_6,F,H,Caroline Fiat,Marc Didier
+55_1,X,X,Diana Ciszewski,Guy JEANNESSON (Titulaire)
+55_2,H,,Michaël Clément, 
+56_1,F,H,Céline Marie Lorène Meneses Delgado née Aumont,ALAIN BOUXIN
+56_2,H,F,David JAN,Margot Balech
+56_3,H,F,Marie-Madeleine Dore Lucas,Bruno BRAVO
+56_4,F,H,Cécile Buchet,quentin Schillé
+56_5,H,F,Alexandre Scheuer,Marie-Lise Lepez
+56_6,H,F,DAVID Guillemet,Gaëlle Chammings Brulon
+57_1,F,H,Narjès Chouikha,François Fauve
+57_2,F,H,Claudine POIRSON,Christian Marques
+57_3,H,F,Denis Maciazek,Margaux Sillet
+57_5,F,,Brigitte Blang, 
+57_6,H,,Jonathan Outomuro, 
+57_7,F,,Virginie Diebold, 
+57_8,H,F,Lionel Buriello,Céline Léger
+58_1,F,H,Marie-Claude Taurel,Martin Boutet
+58_2,F,,Marie-Anne Guillemain-Boudon, 
+59_1,H,F,Adrien QUATENNENS,Agnès Pinson
+59_10,F,H,Adélie Cormont,Maurice Devloo
+59_11,H,F,Sébastien Polveche,Marie-Pierre Choquel
+59_12,H,F,Laurent Courtois,Marine Desrousseaux
+59_14,F,H,Delphine Decoster,Daniel Cordiez
+59_15,H,F,Hervé Walraeve,Valérie Gyzelinck
+59_16,F,H,Marina Dabonneville,Raphaël Brice
+59_17,H,F,François Guiffard,Claudine AUGUSTE
+59_18,F,H,Thérèse-Marie Cardon,Sébastien Maréchal
+59_19,H,F,Julien Poix,Françoise Dupont Cunin
+59_2,H,F,Ugo Bernalicis,Anne Cliche dite Conti
+59_20,H,F,David Richer,Christine Dufner
+59_21,F,H,Ophélie Tricot,Rossano Pulpito
+59_3,H,,Aurélien Motte, 
+59_4,H,F,Jean-Pierre HOUBRON,Cassandre Defosse
+59_5,F,,Lucile Caplier, 
+59_6,F,H,Amandine Fouillard,Mustapha Ben Mechedal
+59_7,H,F,Yann Merlevède,Sophie Leblanc
+59_8,H,,Paul-Vincent Zilmia, 
+59_9,F,H,Ninon VAN ISTERDAEL,Jean-Louis Van-de-Wiele
+60_1,H,F,Fabien Navez,Alizé Piquant
+60_2,H,F,Philippe Virolle,Marie Lemmet
+60_3,F,H,Karine Monségu,Guy Friadt
+60_4,H,F,Martin Battaglia,Julie Demesse
+60_5,F,H,Nadine Courtois,Laurent Grenier
+60_6,F,H,Géraldine Minet,Jacques Delhay
+60_7,F,H,Marie-Laure Darrigade,Cédric Dufourt
+61_1,F,H,Martine Hamel,Patrick Berrier
+61_2,H,F,Jean-Claude MARIE,Sylvie Quinton-Barbeau
+61_3,H,F,Clément Bujarrabal,Martine Monteggia
+62_11,H,F,Jean-Pierre CARPENTIER,Marie-Françoise Gonzales
+62_12,H,,Sylvain Wavelet, 
+62_2,F,H,Caroline Delplace,Philippe Audegond
+62_3,H,F,Djordje Kuzmanovic,Lynda Kebbas
+62_4,F,,Sarah Regnier, 
+62_5,H,,Alain Berthault, 
+62_6,F,,Nadine Demarey, 
+62_7,H,F,Jean-Philippe Lannoy,Anne-Sophie LIGNIERT
+62_8,H,F,CASIMIR LETELLIER,Hélène Roche
+63_1,H,F,Alain Laffont,Naïs Sabatier
+63_2,H,,Pascal Estier, 
+63_3,H,F,Marc Chovin,Stéphanie Burias
+63_4,F,H,CATHERINE MOLLET,Laurent Béal
+63_5,F,H,Katia Rolland,Cyril Le Pont
+64_1,F,H,Séverine Ghedjati,Thierry Moutou
+64_2,H,F,Claude Gout,Gwendoline Avanthey
+64_3,H,F,Eric Lytwyn,Julie Ledemé
+64_4,H,F,Didier Bayens,Marie Agras
+64_5,H,F,Jérémy Farge,Patricia Leuenberger
+64_6,X,X,Christine Labrousse,BENITO ZUBELDIA (suppléant de Christine LABROUSSE)
+65_1,F,H,Sylvie FERRER,Manuel MOUTOUSSAMY
+65_2,F,H,Charles Rocheteau,Marie-josé Crémades Sanchez
+66_1,H,F,Alain Mih,Carole Gohier
+66_2,F,H,Catherine DAVID,Jean-Noël Clanet
+66_3,H,F,Philippe Assens,Zoé Salmeron
+66_4,F,H,Dominique-Christiane Guerin,Jérôme Pous
+67_1,H,F,Jean-Marie Brom,Martine Kremmel
+67_2,F,H,Christine Kaidi,Jimmy Brunet
+67_3,F,,Floriane Dupré, 
+67_4,H,,Albert Schwartz, 
+67_5,F,H,Janig TERRIER,Olivier Raoulx
+67_6,F,F,Denis Gadot,Christelle Gleitz
+67_7,F,F,Peter Andersen,Christine Strande
+67_8,F,F,Manuel Ménétrier,Sandrine Finck
+67_9,H,,Leila Witzmann, 
+68_1,F,F,Guillaume Pernot,Anne-Marie Salomon
+68_2,F,,Christelle Rillet, 
+68_3,F,H,Marianne Berçot,Patrice Weigel
+68_4,H,,Gabriel WEISSER, 
+68_5,F,H,Geneviève ENGGASSER,Jean-Claude VAL
+68_6,H,F,Philippe DUFFAU,Elena Andrioli
+69_1,H,F,Elliott Aubin,Michèle LE DILY
+69_10,H,F,Olivier Daudé,Brigitte Bonnetain
+69_11,H,H,Christine Valentin,Fabrice NOTO
+69_12,H,F,Eloi Navarro,Brigitte Gillet Chanel
+69_13,F,H,Laure Lebaron,Roland Pacaud
+69_14,H,,Benjamin Nivard, 
+69_2,F,H,Eleni Ferlet,Basile Marti
+69_3,H,F,Pascal Le Brun,Nicole BEN AYOUN
+69_4,F,H,Anne Fontenille,Julien Ravello
+69_5,F,H,Céline BERNARDI,Michel Poulain
+69_6,H,F,Laurent Legendre,Céline Fratczak
+69_7,F,F,Andréa Kotarac,Sophie Charrier
+69_8,F,H,Pascale Cernicchiaro,Fabien De Marchi
+70_1,H,F,François Froidurot,Elisabeth Faivre Morel
+70_2,F,H,Isabelle Haismann-Febvay,David Dornier
+71_1,F,H,Patricia Baci,Pierre FUENTES-EXPOSITO
+71_2,H,,Philippe Bonnot,Jacqueline Bramant
+71_3,H,,Pierre Aceituno, 
+71_4,F,H,Michèle Chambon,Alexandre Guechi
+71_5,F,H,Laura Léger,Eric Riboulet
+72_1,H,F,Loïc Morisot,Evelyne Maillard
+72_2,H,F,Matthias Tavel,Alima Arouali
+72_3,F,H,Barbara Deboeuf,Philippe Palisse
+72_4,F,H,Pascale Fromentière,Eric Jamet
+72_5,H,F,Luc-marie FABUREL,Salima Guédouar
+73_1,F,H,Thierry Bonnamour,Sophie Jégonday
+73_2,H,F,Yamen Adissa,Viviane Nogues
+73_3,H,,Alexandre Roux, 
+73_4,F,H,Tifen Ducharne,Hugues Grimberg
+74_1,H,F,Julian Augé,Margaux Lagay
+74_2,F,H,Anne-Marie Amphyon,Yann Burguere
+74_3,H,F,Jacques Cambon,Nawal Jos
+74_4,F,H,Véronique Jacob,Cemil Sanli
+74_5,H,F,Marin Dauriat,Isabelle Naïm Christin
+75_1,H,F,Patrick Comoy,Fabienne Loup
+75_10,F,H,Leila Chaibi,Philippe Navarre
+75_11,H,F,Jean Pierre Coulomb,Dominique Mesfioui
+75_12,H,F,Patrick Lefrançois,Françoise Giboteau
+75_13,F,H,Magalhy Berto,Yazid Arifi
+75_15,H,F,MEHDI KEMOUNE,Isabelle Leparcq
+75_16,F,H,Sarah Legrain,Stéphane Fernandez
+75_17,F,H,Danièle Obono,Michel Mongkhoy
+75_18,H,F,Paul Vannier,Sabrina Ali Benali
+75_2,F,H,Anne-Françoise PRUNIERES,Julien Bermudez
+75_3,H,F,Laurent Levard,Natalie DEPRAZ
+75_4,F,H,Mélanie Monier,Kevin Guibert
+75_5,F,H,Layla Yakoub,Emmanuel Olivard
+75_6,F,F,Danielle Simonnet,Sophie de La Rochefoucaud
+75_7,H,,Jean-Charles Lallemand, 
+75_8,H,F,Clément Bony,Raquel Garrido
+75_9,H,F,Raphaël Qnouch,Agnès Falabrègues
+76_1,H,F,Lionel Descamps,SYLVIE Glabik
+76_10,F,H,Anne Lecoq-Cherblanc,Norbert Tangy
+76_2,H,,Alain Ninauve, 
+76_4,F,H,Laura THIEBLEMONT,Bruno Guilliot
+76_5,F,H,Myriam Mulot,Yann Beux
+76_7,H,F,Gérald Maniable,Veronica Petitjean
+76_8,H,F,François Panchout,Joanna Castillo
+76_9,H,F,Rachid Chebli,Carole Soter
+77_1,F,F,Bénédicte Monville-De Cecco,Fatiya Ammad-Mothay
+77_10,H,F,Maxime Laisney,Françoise Godin
+77_11,H,,Daniel Allioux, 
+77_2,H,F,renaud HAMARD,Marie-Thérèse Gutierrez
+77_3,F,,Chantal Thomas, 
+77_4,F,,Julie Garnier, 
+77_5,F,H,Mounia Charaf,Patrice Meillier
+77_6,F,H,Valérie Delage,Alban Corbin
+77_7,H,F,Grégory Jurado,Ersilia Soudais
+77_8,F,H,Julia Killian,Sylvain Beaulieu
+77_9,,,Delphine Heuclin, 
+78_1,,,Thibaut Marchal, 
+78_10,H,F,Benjamin Nicoletta,Valérie Profizi-Bachelart
+78_11,F,H,Sylvie Rider,Mathurin Levis
+78_12,H,F,Antoine Baro,Sabrina Assraoui
+78_2,H,F,Marc Soriano,Anne Theunissen
+78_3,H,F,Alexandre Langlois,Aurélie Dambry
+78_4,F,H,Faustine Huet,Sélim Bouchareb
+78_5,,,Sophie THEVENET, 
+78_6,,,Nelly Pascaud, 
+78_7,F,H,Estelle Andrin,Paul Deboutin
+78_8,H,,Majid Eddaïkhane, 
+78_9,F,H,Marie-Anne Moynacq,Elena Petrova
+79_1,F,H,Nathalie SEGUIN,Karine Olivier
+79_2,H,F,Yannick Maillou,Jocelyne Benard
+79_3,H,F,Philippe Cochard,Anne Maugard
+80_2,H,F,Cédric Maisse,Brigitte Devauchelle
+80_3,F,H,Isabelle BRUSADELLI-DORION,DAVID Pauchet
+80_4,F,H,Caroline Vincent,Christophe Hertout
+80_5,H,F,Olivier Spinelli,Emmanuelle Alarcon Garcia
+81_1,F,H,Tinhinane Hadji,Daniel Caors
+81_2,H,F,Thomas Domenech,Roxana Farina Concha
+81_3,F,H,Maud Forgeot,Noël Mira
+82_1,F,H,Marie-Lyne Nadal,Jean-Claude Madaule
+82_2,H,F,Ivan Jacquemard,Céline Tainturier
+83_1,H,F,Luc Léandri,Laura Golygowski
+83_2,H,F,Michel Lagréca,Odile bozane
+83_3,F,H,Danielle Lapierre,Yannick Perrot
+83_4,H,,Eric Habouzit, 
+83_5,F,H,Catherine Aubry,Julien Poussin
+83_6,F,H,Jill Caziconstantinos,jill caziconstantinos
+83_7,H,F,Laurent Richard,Marion Canavera
+83_8,F,,Patricia Massis Callet, 
+84_1,F,H,Amandine Laugier,Vincent Delahaye
+84_2,H,F,Laurent Thérond,Aurélia MARIE-SAINTE
+84_3,F,H,Laurence Cermolacce-Boissier,José Robert
+84_4,H,F,Farid Faryssy,Isabelle Bruet
+84_5,H,F,Stéphane CHOTARD,Annie Roiron
+85_1,F,H,Gwenaëlle  Grietens,Jacques Reboulleau
+85_2,F,H,Anne-Lise Redais,Dominique Chevolleau
+85_3,H,,Alain Darmey, 
+85_4,F,H,Anita LAVERGNE,Arnaud Perherin
+86_1,F,H,Céline Cuvillier,Kioumars Thomas SAHABI
+86_2,H,F,Frédéric Abrachkoff,Cécile THOBIE
+86_3,F,H,Marie-josé Cellot,Rodolphe CACAULT
+86_4,,,Aurélie Saulnier, 
+87_1,F,H,Danielle Soury,Rémy Cholat
+87_2,H,F,Hubert Hurard,Marie Labat
+87_3,H,F,Pierre-Edouard Pialat,Patricia Marcoux Lestieux
+88_1,H,F,Fabrice Pisias,Virginie Gerardin
+88_2,H,F,Sylvain CALBRIX,Isabelle Arnould
+88_3,F,H,Christine Bourbon-Schmitt,Damien Malavelle
+89_1,H,F,Mathieu De Burghrave,Pascale Kaim
+89_2,H,F,Philippe Collin, 
+89_3,F,H,Isabelle Michaud,Yoann Toupet
+90_1,F,H,Anaïs Beltran,Emmanuel Petitjean
+90_2,H,F,Laurent Soler,Anastasia Sivan
+91_1,F,H,Farida Amrani,Ulysse Rabaté
+91_10,F,H,Charlotte Girard,Pascal Troadec
+91_2,H,F,Michaël Goasdoué,Maële Vincensini
+91_3,F,H,Virginie Araujo,Vincent Vergeron
+91_4,H,F,Bernard Terris,Christine Duval
+91_5,H,F,Sylvère Cala,Frédérique Dumont
+91_6,H,F,Philippe Juraver,Cécile MUNCH
+91_7,F,H,Mounia Benaili,Vivien Rebière
+91_8,F,H,Mai-Ly Khan,Jérôme Flament
+91_9,F,,ANNE JOURNEL, 
+92_1,H,,AbdelNasser Lajili, 
+92_12,H,F,Victor Germain,Madeleine Bahloul
+92_13,H,F,Nicolas Lasgi,Julie Cazalet
+92_2,H,F,Nino Schillaci,Véronique Haab
+92_3,F,H,Virginie Kenler,Bertrand Perrotte
+92_4,F,H,Rossana Morain,Mhamed Kaki
+92_5,H,F,Aissa Terchi,Sophie Hermange
+92_6,H,F,Josué Hantoni de Biasi,Adeline Chenon Ramlat
+92_8,F,H,Annette Benmussa,Henri Borsenberger
+92_9,F,H,CHRISTEL MILHAVET,Gregory François
+93_1,H,,Eric Coquerel, 
+93_10,F,H,Ambre Froment,Joseph Pace
+93_3,F,H,Dominique Delaunay,Mathieu Vallet
+93_5,H,F,Ugo Portier,Rozenn Gueguen Caruso
+93_7,H,F,Alexis Corbière,Corinne Benabdallah
+93_8,H,F,Maxence Albespy,Heloise Joly
+93_9,F,H,Sabine Rubin,Charles Alonso
+94_1,H,F,Thierry N'kaoua,Claire Giardelli
+94_10,F,H,Mathilde Panot,Mourad Tagzout
+94_11,H,F,Djamel Arrouche,Soulef Bergougnoux
+94_2,H,,François Cocq, 
+94_3,H,F,Nicolas Georges,Jocelyne Pigrée
+94_4,F,H,Nathalie Lemaire,Martial Prouheze
+94_5,F,H,Raphaëlle Martinez,Jeremy Boucher
+94_6,F,H,Stéphanie Michel,Vianney Orjebin
+94_7,H,,Kévin DALLA FRANCESCA, 
+94_8,H,F,Renaud Pequignot,Amélie Bellaud
+94_9,F,H,Martine Lachaud,Patrick Pérez Sécheret
+95_1,H,,Romain Renou, 
+95_10,F,H,Katia Noin Ledanois,Gérard Januario
+95_2,F,H,Sylvie Geoffroy-Martin,Elliott Bareau
+95_3,X,X,"Maryline Lavabre (candidate suppléante, validation en cours)",Sébastien Davignon
+95_4,F,H,Cathy Pinheiro,Brice Errandonea
+95_5,F,H,Françoise Stiegler,Stéphane Steunou
+95_6,H,F,Serge Grossvak,Johanne Labellé
+95_7,H,F,Gilles Monsillon,Marie Laure Joëlle Olmeta
+95_8,F,H,Pamela Hocini,Elisée Fernandez
+95_9,F,H,Rabha Belbachir,Christian Guéry
+971_2,H,F,Michel Tola,Christèle Roussel
+971_4,H,F,Guilhem SALTEL,Nice Cambronne
+974_3,F,H,Virginie Grondin,Pascal Basse
+974_4,F,H,Corine Bédier,Didier Migneau
+974_5,F,,Denise Delavanne, 
+974_6,H,F,Pascal Hoareau,Marie-Josianne Lagrange
+974_7,H,F,Perceval GAILLARD,Sandra Gence
