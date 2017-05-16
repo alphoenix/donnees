@@ -1,399 +1,393 @@
-Code,Département,Circo.,Candidat(e) désigné(e)
-01,Ain,3,Géraldine Sacchi
-03,Allier,1,Magali Alexandre
-03,Allier,2,Nicolas Brien
-07,Ardèche,1,Pascal Terrasse
-07,Ardèche,2,Olivier Dussopt
-07,Ardèche,3,Sabine Buis
-15,Cantal,1,Alain Calmette
-26,Drôme,1,Jean-Pierre Veyret
-26,Drôme,2,Isabelle Malric
-26,Drôme,3,Pascale Rochas
-26,Drôme,4,Pierre Jouvet
-38,Isère,1,Olivier Veran
-38,Isère,2,Pierre Verri
-38,Isère,3,Michel Destot
-38,Isère,4,Marie-Noelle Battistel
-38,Isère,5,Eliane Giraud
-38,Isère,7,Monique Limon Charponay
-38,Isère,8,Erwann Binet
-38,Isère,10,Joelle Huillier
-42,Loire,1,Régis Juanico
-42,Loire,3,Philippe Kizirian
-42,Loire,4,Laurence Juban
-42,Loire,5,Brigitte Dumoulin
-43,Haute-Loire,1,Fabrice Farison
-43,Haute-Loire,2,Josiane Mialon
-63,Puy-de-Dôme,1,Cécile Audet
-63,Puy-de-Dôme,2,Christine Pires Beaune
-63,Puy-de-Dôme,3,Alphonse Bellonte
-63,Puy-de-Dôme,4,Sylvie Maisonnet
-63,Puy-de-Dôme,5,Gérard Betenfeld
-69,Rhône,2,Hubert Julien-laferriere
-69,Rhône,3,Jean-Louis Touraine
-69,Rhône,4,Anne Brugnera
-69,Rhône,5,Natacha Verpillot
-69,Rhône,6,Najat Vallaud Belkacem
-69,Rhône,7,Renaud Gauquelin
-69,Rhône,10,Jocelyne Giontarelli
-69,Rhône,11,Jules Joassard
-69,Rhône,12,David Chizat
-69,Rhône,13,Françoise Bergame
-69,Rhône,14,Yves Blein
-74,Haute-Savoie,4,Anne Favrelle
-74,Haute-Savoie,5,Jean-Baptiste Baud
-21,Côte d'Or,1,Sladana Zivkovic
-21,Côte d'Or,2,Pierre Pribetich
-25,Doubs,1,Barbara Romagnan
-25,Doubs,3,Sidonie Marchal
-25,Doubs,4,Frédéric Barbier
-39,Jura,1,Marc-Henri Duvernet
-39,Jura,3,Françoise Barthoulot
-58,Nièvre,1,Gaetan Gorce
-58,Nièvre,2,Christian Paul
-71,Saône-et-Loire,1,Catherine N'diaye
-71,Saône-et-Loire,2,Philomène Baccot
-71,Saône-et-Loire,3,Philippe Baumel
-71,Saône-et-Loire,4,Cécile Untermaier
-71,Saône-et-Loire,5,Christophe Sirugue
-90,Territoire-de-Belfort,1,Arthur Courty
-90,Territoire-de-Belfort,2,Maude Clavequin
-22,Côtes d'Armor,1,Michel Lesage
-22,Côtes d'Armor,2,Viviane Le Dissez
-22,Côtes d'Armor,4,Annie Le Houérou
-22,Côtes d'Armor,5,Corinne Erhel
-29,Finistère,1,Jean-Jacques Urvoas
-29,Finistère,2,Patricia Adam
-29,Finistère,4,Gwenegan Bui
-29,Finistère,5,Chantal Guittet Raison
-29,Finistère,6,Richard Ferrand
-29,Finistère,7,Florence Crom
-29,Finistère,8,Michaël Quernez
-35,Ille-et-Vilaine,1,Marie-Anne Chapdelaine
-35,Ille-et-Vilaine,2,Gaelle Andro
-35,Ille-et-Vilaine,3,François Andre
-35,Ille-et-Vilaine,4,Franck Pichot
-35,Ille-et-Vilaine,5,Stéphane Lenfant
-35,Ille-et-Vilaine,6,Evelyne Gautier Le Bail
-35,Ille-et-Vilaine,7,Alexandra Thierry
-35,Ille-et-Vilaine,8,Emmanuel Couet
-56,Morbihan,2,Stéphanie Le Squer
-56,Morbihan,5,Gwendal Rouillard
-18,Cher,1,Céline Bezoui
-18,Cher,2,Agnès Sinsoulier
-18,Cher,3,Yann Galut
-28,Eure-et-Loir,1,Stéphane Cordier
-28,Eure-et-Loir,2,Nadia Faveris
-28,Eure-et-Loir,4,Fabien Verdier
-36,Indre,2,Isabelle Bruneau
-37,Indre-et-Loire,1,Jean-Patrick Gille
-37,Indre-et-Loire,2,Isabelle Gaudron
-37,Indre-et-Loire,3,Marisol Touraine
-37,Indre-et-Loire,4,Laurent Baumel
-41,Loir-et-Cher,1,Denys Robiliard
-41,Loir-et-Cher,2,Didier Guenin
-45,Loiret,1,Olivier Jouin
-45,Loiret,4,Jalila Gaboret
-45,Loiret,5,Thierry Stromboni
-45,Loiret,6,Valérie Corre
-2B,Corse,1,Emmanuelle De Gentili
-08,Ardennes,2,Christophe Leonard
-08,Ardennes,3,Didier Herbillon
-10,Aube,1,Emmanuel Provin
-10,Aube,2,Audrey Ait Keddache
-10,Aube,3,David Blanchon
-51,Marne,1,Alexandre Tunc
-51,Marne,2,Imane Maniani
-51,Marne,3,Hadhoum Belaredj Tunc
-51,Marne,4,Rudy Namur
-51,Marne,5,Linda Munster
-52,Haute-Marne,2,Antoine Desfretier
-54,Meurthe-et-Moselle,1,Chaynesse Khirouni
-54,Meurthe-et-Moselle,2,Hervé Feron
-54,Meurthe-et-Moselle,3,Christian Eckert
-54,Meurthe-et-Moselle,5,Dominique Potier
-55,Meuse,1,Arnaud Mac Farlane
-55,Meuse,2,Jean-Louis Dumont
-57,Moselle,1,Aurélie Filipetti
-57,Moselle,2,Jean-Michel Toulouze
-57,Moselle,3,Nathalie De Oliveira
-57,Moselle,5,Angèle Dufflo
-57,Moselle,6,Jean-Christophe Kinnel
-57,Moselle,7,Paola Anetti
-57,Moselle,8,Michel Iebgott
-57,Moselle,9,Brigitte Aisse
-67,Bas-Rhin,1,Eric Elkouby
-67,Bas-Rhin,2,Philippe Ies
-67,Bas-Rhin,3,Serge Ehler
-88,Vosges,1,Martine Rancois
-88,Vosges,3,Stessy Peissmann
-88,Vosges,4,Christian Ranqueville
-02,Aisne,3,Jean-Louis Bricout
-59,Nord,1,François Lamy
-59,Nord,2,Audrey Linkenheld
-59,Nord,3,Rémi Pauvros
-59,Nord,4,Philippe Harquet
-59,Nord,5,Aude Leduc
-59,Nord,7,Hélène Viard
-59,Nord,10,Yasmina Chigri Kernab
-59,Nord,11,Roger Vicot
-59,Nord,13,Nozha El Kassimi
-59,Nord,14,Christian Devos
-59,Nord,15,Michel Labitte
-59,Nord,16,Frédéric Delannoy
-59,Nord,17,Agnès Dupuis
-59,Nord,20,Marcel Lourel
-59,Nord,21,Christine Laurent
-60,Oise,3,Johann Lucas
-60,Oise,7,Alexandre Ouizille
-62,Pas-de-Calais,1,Jean-Jacques Cottel
-62,Pas-de-Calais,2,Jacqueline Maquet
-62,Pas-de-Calais,3,Frédérique Masson
-62,Pas-de-Calais,4,Blandine Drain
-62,Pas-de-Calais,5,Frédéric Uvillier
-62,Pas-de-Calais,6,Brigitte Ourguignon
-62,Pas-de-Calais,7,Yann Apet
-62,Pas-de-Calais,8,Bertrand Etit
-62,Pas-de-Calais,10,Bernard Ailliau
-62,Pas-de-Calais,11,Philippe Emel
-62,Pas-de-Calais,12,Nicolas Ays
-80,Somme,1,Pascale Oistard
-80,Somme,5,Benjamin Ucas
-75,Paris,1,Pauline Veron
-75,Paris,2,Marine Rosset
-75,Paris,3,Annick Lepetit
-75,Paris,4,Fabrice Dassie
-75,Paris,5,Seybah Dagoma
-75,Paris,6,Nawel Oumer
-75,Paris,7,Patrick Bloche
-75,Paris,8,Sandrine Mazetier
-75,Paris,9,Jean-Marie Le Guen
-75,Paris,11,Pascal Cherki
-75,Paris,12,Florian Sitbon
-75,Paris,13,Isabelle Roy
-75,Paris,14,Pierre-Alain Weil
-75,Paris,15,George Pau Langevin
-75,Paris,16,Jean-Christophe Cambadelis
-75,Paris,17,Colombe Brossel
-75,Paris,18,Myriam El Khomri
-77,Seine-et-Marne,1,Nicolas Alix
-77,Seine-et-Marne,3,Marie-Laure Fages
-77,Seine-et-Marne,4,Olivier Husson
-77,Seine-et-Marne,6,Bastien Marguerite
-77,Seine-et-Marne,7,Stéphane Jabut
-77,Seine-et-Marne,8,Eduardo Rihan Cypel
-77,Seine-et-Marne,9,Monique Delessard
-77,Seine-et-Marne,10,Juliette Meadel
-77,Seine-et-Marne,11,Olivier Faure
-78,Yvelines,1,Charlotte Rossettini
-78,Yvelines,2,Amroze Adjuward
-78,Yvelines,3,Nicolas Hue
-78,Yvelines,4,Monika Belala
-78,Yvelines,5,Michèle Vitrac Pouzoulet
-78,Yvelines,6,Angélique Silly
-78,Yvelines,8,Françoise Descamps Crosnier
-78,Yvelines,9,Alie Mohammad
-78,Yvelines,10,Jean-Claude Husson
-78,Yvelines,11,Benoit Hamon
-78,Yvelines,12,Noelle Bas Marie
-91,Essonne,3,Michel Pouzol
-91,Essonne,4,Ophélie Guin
-91,Essonne,5,Maud Olivier
-91,Essonne,6,Jérôme Guedj
-91,Essonne,9,Romain Colas
-91,Essonne,10,Malek Boutih
-92,Hauts-de-Seine,1,Alexis Bachelay
-92,Hauts-de-Seine,2,Chantal Barthelemy Ruiz
-92,Hauts-de-Seine,3,Isabelle Dahan
-92,Hauts-de-Seine,4,Habiba Bigdade
-92,Hauts-de-Seine,5,Lies Messafta
-92,Hauts-de-Seine,6,Marie Brannens
-92,Hauts-de-Seine,8,Catherine Lime Biffe
-92,Hauts-de-Seine,10,Thomas Puijalon
-92,Hauts-de-Seine,11,Julie Sommaruga
-92,Hauts-de-Seine,12,Jean-Marc Germain
-92,Hauts-de-Seine,13,Benjamin Lanier
-93,Seine-St-Denis,1,Bruno Le Roux
-93,Seine-St-Denis,2,Mathieu Hanotin
-93,Seine-Saint-Denis,5,Valérie Mery Fritz
-93,Seine-Saint-Denis,6,Elisabeth Guigou
-93,Seine-Saint-Denis,7,Razzy Hammadi
-93,Seine-Saint-Denis,8,Elisabeth Pochon
-93,Seine-Saint-Denis,9,Claude Bartolone
-93,Seine-Saint-Denis,10,Daniel Goldberg
-93,Seine-Saint-Denis,12,Pascal Popelin
-94,Val-de-Marne,1,Laurence Vagnier
-94,Val-de-Marne,4,Zakaria Zaidane
-94,Val-de-Marne,5,Caroline Adomo
-94,Val-de-Marne,6,Patrice Bedouret
-94,Val-de-Marne,7,Jean-Jacques Bridey
-94,Val-de-Marne,8,Sophie Gallais
-94,Val-de-Marne,9,Luc Carvounas
-94,Val-de-Marne,11,Jean-Yves Le Bouillonnec
-95,Val-d'Oise,1,Sandra Nguyen Derosier
-95,Val-d'Oise,2,Ayda Hadizadeh
-95,Val-d'Oise,3,Nelly Leon
-95,Val-d'Oise,4,Gérard Sebaoun
-95,Val-d'Oise,5,Philippe Doucet
-95,Val-d'Oise,6,Guyslaine Pestie
-95,Val-d'Oise,9,Luc Broussy
-95,Val-d'Oise,10,Dominique Lefebvre
-14,Calvados,1,Eric Veve
-14,Calvados,2,Laurence Dumont
-14,Calvados,4,Xavier Madelaine
-27,Eure,2,Jean-Louis Destans
-27,Eure,3,Marie-Claire Haki
-27,Eure,5,Martine Seguela
-50,Manche,3,Stéphane Travert
-76,Seine-Maritime,1,Valérie Fourneyron
-76,Seine-Maritime,3,Luce Pane
-76,Seine-Maritime,4,Guillaume Bachelay
-76,Seine-Maritime,5,Christophe Bouillon
-76,Seine-Maritime,6,Marie Le Vern
-76,Seine-Maritime,7,Matthieu Brasse
-76,Seine-Maritime,8,Catherine Troallic
-76,Seine-Maritime,9,Estelle Grelier
-76,Seine-Maritime,10,Jean-Pierre Thevenot
-16,Charente,1,Martine Pinville
-16,Charente,2,Marianne Reynaud
-16,Charente,3,Jérôme Lambert
-17,Charente Maritime,3,Françoise Mesnard
-17,Charente Maritime,4,Fabienne Dugas Raveneau
-19,Corrèze,1,Bernard Combes
-19,Corrèze,2,Philippe Nauche
-23,Creuse,1,Michel Vergnier
-24,Dordogne,1,Michel Moyrand
-24,Dordogne,3,Colette Langlade
-24,Dordogne,4,Benjamin Delrieux
-33,Gironde,1,Sandrine Doucet
-33,Gironde,2,Michèle Delaunay
-33,Gironde,3,Naima Charai
-33,Gironde,4,Alain David
-33,Gironde,5,Pascale Got
-33,Gironde,6,Marie Recalde
-33,Gironde,7,Bernard Garrigou
-33,Gironde,9,Gilles Savary
-33,Gironde,11,Michèle Lacoste
-33,Gironde,12,Catherine Veyssy
-40,Landes,1,Renaud Lagrave
-40,Landes,2,Christine Basly Lapegue
-40,Landes,3,Boris Vallaud
-47,Lot-et-Garonne,1,Lucette Lousteau
-47,Lot-et-Garonne,2,Matthias Fekl
-47,Lot-et-Garonne,3,Guillaume Molierac
-64,Pyrénées-Atlantiques,1,Jérôme Marbot
-64,Pyrénées-Atlantiques,2,Nathalie Chabanne
-64,Pyrénées-Atlantiques,3,David Habib
-64,Pyrénées-Atlantiques,5,Colette Capdevielle
-64,Pyrénées-Atlantiques,6,Sylviane Alaux
-79,Deux-Sèvres,1,Elodie Truong
-79,Deux-Sèvres,2,Delphine Batho
-79,Deux-Sèvres,3,Marc Bonneau
-86,Vienne,2,Patricia Persico
-86,Vienne,3,Jean-Michel Clement
-87,Haute-Vienne,1,Laurent Lafaye
-87,Haute-Vienne,2,Annick Morizio
-87,Haute-Vienne,3,Catherine Beaubatie
-9,Ariège,1,Martine Esteban
-9,Ariège,2,Alain Faure
-11,Aude,1,Alain Ginies
-11,Aude,2,Marie-Hélène Fabre
-11,Aude,3,André Viola
-12,Aveyron,1,Sarah Vidal
-12,Aveyron,2,Bertrand Cavalerie
-30,Gard,1,Françoise Dumas
-30,Gard,2,Katy Guyot
-30,Gard,3,Catherine Eysseric
-30,Gard,4,Fabrice Verdier
-30,Gard,5,Nelly Frontanau
-31,Haute-Garonne,1,Catherine Lemorton
-31,Haute-Garonne,2,Gérard Bapt
-31,Haute-Garonne,3,Isabelle Hardy
-31,Haute-Garonne,4,Martine Martinel
-31,Haute-Garonne,5,Sandrine Floureusses
-31,Haute-Garonne,6,Camille Pouponneau
-31,Haute-Garonne,7,Marie-Caroline Tempesta
-31,Haute-Garonne,8,Joel Aviragnet
-31,Haute-Garonne,9,Christophe Borgel
-31,Haute-Garonne,10,Kader Arif
-32,Gers,1,Francis Dupouey
-32,Gers,2,Gisèle Biemouret
-34,Hérault,2,Anne-Yvonne Le Dain
-34,Hérault,3,Fanny Dombre Coste
-34,Hérault,4,Frédéric Roig
-34,Hérault,5,Marie Passieux
-34,Hérault,7,Sébastien Denaja
-34,Hérault,8,Christian Assaf
-34,Hérault,9,Patrick Vignal
-46,Lot,2,Vincent Labarthe
-65,Hautes-Pyrénées,1,Jean Glavany
-66,Pyrénées-Orientales,1,Jaques Cresta
-66,Pyrénées-Orientales,2,Marie-Pierre Sadourny
-66,Pyrénées-Orientales,3,Ségolène Neuville
-66,Pyrénées-Orientales,4,Alexandre Reynal
-81,Tarn,1,Patrice Bedier
-81,Tarn,2,Claire Fita
-82,Tarn-et-Garonne,1,Valérie Rabault
-44,Loire-Atlantique,2,Alain Robert
-44,Loire-Atlantique,3,Karine Daniel
-44,Loire-Atlantique,4,Dominique Raimbourg
-44,Loire-Atlantique,5,Michel Menard
-44,Loire-Atlantique,6,Yves Daniel
-44,Loire-Atlantique,7,Anne Boye
-44,Loire-Atlantique,8,Laurianne Deniaud
-44,Loire-Atlantique,10,Sophie Errante
-49,Maine-et-Loire,1,Luc Belot
-49,Maine-et-Loire,4,Meriem Baba
-49,Maine-et-Loire,5,Laurence Adrien Bigeon
-49,Maine-et-Loire,6,Serge Bardy
-49,Maine-et-Loire,7,Sylvie Camara Tombini
-53,Mayenne,1,Guillaume Garot
-72,Sarthe,1,Françoise Dubois
-72,Sarthe,2,Marietta Karamanli
-72,Sarthe,3,Nicolas Chauvin
-72,Sarthe,5,Christophe Rouillon
-85,Vendée,1,Cécile Dreure
-85,Vendée,2,Sylviane Bulteau
-85,Vendée,3,Anthony Pitalier
-85,Vendée,5,Hugues Fourage
-04,Alpes de Haute-Provence,1,Delphine Bagarry
-04,Alpes de Haute-Provence,2,Christophe Castaner
-05,Hautes-Alpes,1,Karine Berger
-06,Alpes-Maritimes,2,Pierre-Marie Carlier
-06,Alpes-Maritimes,5,Chaama Graillat
-13,Bouches-du-Rhône,1,Gérard Oreggia
-13,Bouches-du-Rhône,2,Annie Levy-mozziconacci
-13,Bouches-du-Rhône,3,Anne Di Marino
-13,Bouches-du-Rhône,4,Patrick Mennucci
-13,Bouches-du-Rhône,5,Marie-Arlette Carlotti
-13,Bouches-du-Rhône,7,Henri Jibrayel
-13,Bouches-du-Rhône,9,Stéphanie Harkane
-13,Bouches-du-Rhône,11,Gaëlle Lenfant
-13,Bouches-du-Rhône,12,Isabelle Rovarino
-13,Bouches-du-Rhône,14,Jean-David Ciot
-13,Bouches-du-Rhône,16,Nora Mebarek
-83,Var,1,Valentin Gies
-83,Var,2,Cécile Muschotti
-83,Var,3,William Seemuller
-83,Var,5,Insaf Rezagui
-83,Var,6,Cécile Laublet
-83,Var,7,Jimmy Coste
-84,Vaucluse,1,Christine Lagrange
-84,Vaucluse,3,Céline Valadier
-84,Vaucluse,4,Marlène Thibaud
-84,Vaucluse,5,Jean-François Lovisolo
-974,Réunion,1,Ericka Bareigts
-974,Réunion,2,Salim Nana Ibrahim
-974,Réunion,3,Jean-Jacques Vlody
-974,Réunion,5,Philippe Leconstant
-974,Réunion,6,Monique Orphe
-974,Réunion,7,Virginie Gobalou
-999,FEHDF,1,Yan Chantrel
-999,FEHDF,2,Florence Baillon
-999,FEHDF,3,Axelle Lemaire
-999,FEHDF,4,Philip Cordery
-999,FEHDF,6,Nicole Castioni
-999,FEHDF,7,Pierre-Yves Le Borgn'
-999,FEHDF,9,Didier Le Bret
-999,FEHDF,10,Daad Naffi
-999,FEHDF,11,Matthias Assante
+code_dpt,dpt,circo,code_circo,nom,genre
+94,Val-de-Marne,4,94_4,Zakaria Zaidane,F
+44,Loire-Atlantique,6,44_6,Yves Daniel,H
+69,Rhône,14,69_14,Yves Blein,H
+59,Nord,10,59_10,Yasmina Chigri Kernab,F
+18,Cher,3,18_3,Yann Galut,H
+62,Pas-de-Calais,7,62_7,Yann Apet,H
+999,FEHDF,1,999_1,Yan Chantrel,H
+14,Calvados,4,14_4,Xavier Madelaine,H
+83,Var,3,83_3,William Seemuller,H
+22,Côtes d'Armor,2,22_2,Viviane Le Dissez,F
+974,Réunion,7,974_7,Virginie Gobalou,F
+46,Lot,2,46_2,Vincent Labarthe,H
+82,Tarn-et-Garonne,1,82_1,Valérie Rabault,F
+93,Seine-Saint-Denis,5,93_5,Valérie Mery Fritz,F
+76,Seine-Maritime,1,76_1,Valérie Fourneyron,F
+45,Loiret,6,45_6,Valérie Corre,F
+83,Var,1,83_1,Valentin Gies,H
+92,Hauts-de-Seine,10,92_10,Thomas Puijalon,H
+45,Loiret,5,45_5,Thierry Stromboni,H
+63,Puy-de-Dôme,4,63_4,Sylvie Maisonnet,F
+49,Maine-et-Loire,7,49_7,Sylvie Camara Tombini,F
+85,Vendée,2,85_2,Sylviane Bulteau,F
+64,Pyrénées-Atlantiques,6,64_6,Sylviane Alaux,F
+88,Vosges,3,88_3,Stessy Peissmann,H
+56,Morbihan,2,56_2,Stéphanie Le Squer,F
+13,Bouches-du-Rhône,9,13_9,Stéphanie Harkane,F
+50,Manche,3,50_3,Stéphane Travert,H
+35,Ille-et-Vilaine,5,35_5,Stéphane Lenfant,H
+77,Seine-et-Marne,7,77_7,Stéphane Jabut,H
+28,Eure-et-Loir,1,28_1,Stéphane Cordier,H
+94,Val-de-Marne,8,94_8,Sophie Gallais,F
+44,Loire-Atlantique,10,44_10,Sophie Errante,F
+21,Côte d'Or,1,21_1,Sladana Zivkovic,F
+25,Doubs,3,25_3,Sidonie Marchal,F
+75,Paris,5,75_5,Seybah Dagoma,F
+67,Bas-Rhin,3,67_3,Serge Ehler,H
+49,Maine-et-Loire,6,49_6,Serge Bardy,H
+66,Pyrénées-Orientales,3,66_3,Ségolène Neuville,F
+34,Hérault,7,34_7,Sébastien Denaja,H
+12,Aveyron,1,12_1,Sarah Vidal,F
+75,Paris,8,75_8,Sandrine Mazetier,F
+31,Haute-Garonne,5,31_5,Sandrine Floureusses,F
+33,Gironde,1,33_1,Sandrine Doucet,F
+95,Val-d'Oise,1,95_1,Sandra Nguyen Derosier,F
+974,Réunion,2,974_2,Salim Nana Ibrahim,H
+7,Ardèche,3,07_3,Sabine Buis,F
+51,Marne,4,51_4,Rudy Namur,H
+91,Essonne,9,91_9,Romain Colas,H
+59,Nord,11,59_11,Roger Vicot,H
+40,Landes,1,40_1,Renaud Lagrave,H
+69,Rhône,7,69_7,Renaud Gauquelin,H
+59,Nord,3,59_3,Rémi Pauvros,H
+42,Loire,1,42_1,Régis Juanico,H
+93,Seine-Saint-Denis,7,93_7,Razzy Hammadi,H
+999,FEHDF,7,999_7,Pierre-Yves Le Borgn',H
+6,Alpes-Maritimes,2,06_2,Pierre-Marie Carlier,H
+75,Paris,14,75_14,Pierre-Alain Weil,H
+38,Isère,2,38_2,Pierre Verri,H
+21,Côte d'Or,2,21_2,Pierre Pribetich,H
+26,Drôme,4,26_4,Pierre Jouvet,H
+71,Saône-et-Loire,2,71_2,Philomène Baccot,F
+19,Corrèze,2,19_2,Philippe Nauche,H
+974,Réunion,5,974_5,Philippe Leconstant,H
+42,Loire,3,42_3,Philippe Kizirian,H
+67,Bas-Rhin,2,67_2,Philippe Ies,H
+59,Nord,4,59_4,Philippe Harquet,H
+62,Pas-de-Calais,11,62_11,Philippe Emel,H
+95,Val-d'Oise,5,95_5,Philippe Doucet,H
+71,Saône-et-Loire,3,71_3,Philippe Baumel,H
+999,FEHDF,4,999_4,Philip Cordery,H
+75,Paris,1,75_1,Pauline Veron,F
+34,Hérault,9,34_9,Patrick Vignal,H
+13,Bouches-du-Rhône,4,13_4,Patrick Mennucci,H
+75,Paris,7,75_7,Patrick Bloche,H
+86,Vienne,2,86_2,Patricia Persico,F
+29,Finistère,2,29_2,Patricia Adam,F
+94,Val-de-Marne,6,94_6,Patrice Bedouret,H
+81,Tarn,1,81_1,Patrice Bedier,H
+26,Drôme,3,26_3,Pascale Rochas,F
+80,Somme,1,80_1,Pascale Oistard,F
+33,Gironde,5,33_5,Pascale Got,F
+7,Ardèche,1,07_1,Pascal Terrasse,H
+75,Paris,11,75_11,Pascal Cherki,H
+57,Moselle,7,57_7,Paola Anetti,F
+91,Essonne,4,91_4,Ophélie Guin,F
+38,Isère,1,38_1,Olivier Veran,H
+45,Loiret,1,45_1,Olivier Jouin,H
+77,Seine-et-Marne,4,77_4,Olivier Husson,H
+77,Seine-et-Marne,11,77_11,Olivier Faure,H
+7,Ardèche,2,07_2,Olivier Dussopt,H
+59,Nord,13,59_13,Nozha El Kassimi,F
+13,Bouches-du-Rhône,16,13_16,Nora Mebarek,F
+78,Yvelines,12,78_12,Noelle Bas Marie,F
+999,FEHDF,6,999_6,Nicole Castioni,F
+78,Yvelines,3,78_3,Nicolas Hue,H
+72,Sarthe,3,72_3,Nicolas Chauvin,F
+3,Allier,2,03_2,Nicolas Brien,H
+62,Pas-de-Calais,12,62_12,Nicolas Ays,H
+77,Seine-et-Marne,1,77_1,Nicolas Alix,H
+95,Val-d'Oise,3,95_3,Nelly Leon,H
+30,Gard,5,30_5,Nelly Frontanau,F
+75,Paris,6,75_6,Nawel Oumer,F
+57,Moselle,3,57_3,Nathalie De Oliveira,F
+64,Pyrénées-Atlantiques,2,64_2,Nathalie Chabanne,F
+69,Rhône,5,69_5,Natacha Verpillot,F
+69,Rhône,6,69_6,Najat Vallaud Belkacem,F
+33,Gironde,3,33_3,Naima Charai,F
+28,Eure-et-Loir,2,28_2,Nadia Faveris,F
+75,Paris,18,75_18,Myriam El Khomri,F
+974,Réunion,6,974_6,Monique Orphe,F
+38,Isère,7,38_7,Monique Limon Charponay,F
+77,Seine-et-Marne,9,77_9,Monique Delessard,F
+78,Yvelines,4,78_4,Monika Belala,F
+78,Yvelines,5,78_5,Michèle Vitrac Pouzoulet,F
+33,Gironde,11,33_11,Michèle Lacoste,F
+33,Gironde,2,33_2,Michèle Delaunay,F
+23,Creuse,1,23_1,Michel Vergnier,H
+91,Essonne,3,91_3,Michel Pouzol,H
+24,Dordogne,1,24_1,Michel Moyrand,H
+44,Loire-Atlantique,5,44_5,Michel Menard,H
+22,Côtes d'Armor,1,22_1,Michel Lesage,H
+59,Nord,15,59_15,Michel Labitte,H
+57,Moselle,8,57_8,Michel Iebgott,H
+38,Isère,3,38_3,Michel Destot,H
+29,Finistère,8,29_8,Michaël Quernez,H
+49,Maine-et-Loire,4,49_4,Meriem Baba,F
+90,Territoire-de-Belfort,2,90_2,Maude Clavequin,F
+91,Essonne,5,91_5,Maud Olivier,F
+76,Seine-Maritime,7,76_7,Matthieu Brasse,H
+47,Lot-et-Garonne,2,47_2,Matthias Fekl,H
+999,FEHDF,11,999_11,Matthias Assante,H
+93,Seine-St-Denis,2,93_2,Mathieu Hanotin,H
+27,Eure,5,27_5,Martine Seguela,F
+88,Vosges,1,88_1,Martine Rancois,F
+16,Charente,1,16_1,Martine Pinville,F
+31,Haute-Garonne,4,31_4,Martine Martinel,F
+9,Ariège,1,09_1,Martine Esteban,F
+84,Vaucluse,4,84_4,Marlène Thibaud,F
+37,Indre-et-Loire,3,37_3,Marisol Touraine,F
+75,Paris,2,75_2,Marine Rosset,F
+72,Sarthe,2,72_2,Marietta Karamanli,F
+66,Pyrénées-Orientales,2,66_2,Marie-Pierre Sadourny,F
+38,Isère,4,38_4,Marie-Noelle Battistel,F
+77,Seine-et-Marne,3,77_3,Marie-Laure Fages,F
+11,Aude,2,11_2,Marie-Hélène Fabre,F
+27,Eure,3,27_3,Marie-Claire Haki,F
+31,Haute-Garonne,7,31_7,Marie-Caroline Tempesta,F
+13,Bouches-du-Rhône,5,13_5,Marie-Arlette Carlotti,F
+35,Ille-et-Vilaine,1,35_1,Marie-Anne Chapdelaine,F
+33,Gironde,6,33_6,Marie Recalde,F
+34,Hérault,5,34_5,Marie Passieux,F
+76,Seine-Maritime,6,76_6,Marie Le Vern,F
+92,Hauts-de-Seine,6,92_6,Marie Brannens,F
+16,Charente,2,16_2,Marianne Reynaud,F
+59,Nord,20,59_20,Marcel Lourel,H
+39,Jura,1,39_1,Marc-Henri Duvernet,H
+79,Deux-Sèvres,3,79_3,Marc Bonneau,H
+91,Essonne,10,91_10,Malek Boutih,H
+3,Allier,1,03_1,Magali Alexandre,F
+47,Lot-et-Garonne,1,47_1,Lucette Lousteau,F
+76,Seine-Maritime,3,76_3,Luce Pane,F
+94,Val-de-Marne,9,94_9,Luc Carvounas,H
+95,Val-d'Oise,9,95_9,Luc Broussy,H
+49,Maine-et-Loire,1,49_1,Luc Belot,H
+51,Marne,5,51_5,Linda Munster,F
+92,Hauts-de-Seine,5,92_5,Lies Messafta,H
+44,Loire-Atlantique,8,44_8,Laurianne Deniaud,F
+87,Haute-Vienne,1,87_1,Laurent Lafaye,H
+37,Indre-et-Loire,4,37_4,Laurent Baumel,H
+94,Val-de-Marne,1,94_1,Laurence Vagnier,H
+42,Loire,4,42_4,Laurence Juban,F
+14,Calvados,2,14_2,Laurence Dumont,F
+49,Maine-et-Loire,5,49_5,Laurence Adrien Bigeon,F
+30,Gard,2,30_2,Katy Guyot,F
+44,Loire-Atlantique,3,44_3,Karine Daniel,F
+5,Hautes-Alpes,1,05_1,Karine Berger,F
+31,Haute-Garonne,10,31_10,Kader Arif,H
+77,Seine-et-Marne,10,77_10,Juliette Meadel,F
+92,Hauts-de-Seine,11,92_11,Julie Sommaruga,F
+69,Rhône,11,69_11,Jules Joassard,H
+43,Haute-Loire,2,43_2,Josiane Mialon,F
+60,Oise,3,60_3,Johann Lucas,H
+38,Isère,10,38_10,Joelle Huillier,F
+31,Haute-Garonne,8,31_8,Joel Aviragnet,H
+69,Rhône,10,69_10,Jocelyne Giontarelli,F
+83,Var,7,83_7,Jimmy Coste,H
+64,Pyrénées-Atlantiques,1,64_1,Jérôme Marbot,H
+16,Charente,3,16_3,Jérôme Lambert,H
+91,Essonne,6,91_6,Jérôme Guedj,H
+94,Val-de-Marne,11,94_11,Jean-Yves Le Bouillonnec,H
+26,Drôme,1,26_1,Jean-Pierre Veyret,H
+76,Seine-Maritime,10,76_10,Jean-Pierre Thevenot,H
+37,Indre-et-Loire,1,37_1,Jean-Patrick Gille,H
+57,Moselle,2,57_2,Jean-Michel Toulouze,H
+86,Vienne,3,86_3,Jean-Michel Clement,H
+75,Paris,9,75_9,Jean-Marie Le Guen,H
+92,Hauts-de-Seine,12,92_12,Jean-Marc Germain,H
+69,Rhône,3,69_3,Jean-Louis Touraine,H
+55,Meuse,2,55_2,Jean-Louis Dumont,H
+27,Eure,2,27_2,Jean-Louis Destans,H
+2,Aisne,3,02_3,Jean-Louis Bricout,H
+974,Réunion,3,974_3,Jean-Jacques Vlody,H
+29,Finistère,1,29_1,Jean-Jacques Urvoas,H
+62,Pas-de-Calais,1,62_1,Jean-Jacques Cottel,H
+94,Val-de-Marne,7,94_7,Jean-Jacques Bridey,H
+84,Vaucluse,5,84_5,Jean-François Lovisolo,H
+13,Bouches-du-Rhône,14,13_14,Jean-David Ciot,H
+78,Yvelines,10,78_10,Jean-Claude Husson,H
+57,Moselle,6,57_6,Jean-Christophe Kinnel,H
+75,Paris,16,75_16,Jean-Christophe Cambadelis,H
+74,Haute-Savoie,5,74_5,Jean-Baptiste Baud,H
+65,Hautes-Pyrénées,1,65_1,Jean Glavany,H
+66,Pyrénées-Orientales,1,66_1,Jaques Cresta,H
+45,Loiret,4,45_4,Jalila Gaboret,F
+62,Pas-de-Calais,2,62_2,Jacqueline Maquet,F
+75,Paris,13,75_13,Isabelle Roy,F
+13,Bouches-du-Rhône,12,13_12,Isabelle Rovarino,F
+26,Drôme,2,26_2,Isabelle Malric,F
+31,Haute-Garonne,3,31_3,Isabelle Hardy,F
+37,Indre-et-Loire,2,37_2,Isabelle Gaudron,F
+92,Hauts-de-Seine,3,92_3,Isabelle Dahan,F
+36,Indre,2,36_2,Isabelle Bruneau,F
+83,Var,5,83_5,Insaf Rezagui,F
+51,Marne,2,51_2,Imane Maniani,F
+85,Vendée,5,85_5,Hugues Fourage,H
+69,Rhône,2,69_2,Hubert Julien-laferriere,H
+54,Meurthe-et-Moselle,2,54_2,Hervé Feron,H
+13,Bouches-du-Rhône,7,13_7,Henri Jibrayel,H
+59,Nord,7,59_7,Hélène Viard,F
+51,Marne,3,51_3,Hadhoum Belaredj Tunc,H
+92,Hauts-de-Seine,4,92_4,Habiba Bigdade,F
+29,Finistère,4,29_4,Gwenegan Bui,H
+56,Morbihan,5,56_5,Gwendal Rouillard,H
+95,Val-d'Oise,6,95_6,Guyslaine Pestie,F
+47,Lot-et-Garonne,3,47_3,Guillaume Molierac,H
+53,Mayenne,1,53_1,Guillaume Garot,H
+76,Seine-Maritime,4,76_4,Guillaume Bachelay,H
+32,Gers,2,32_2,Gisèle Biemouret,F
+33,Gironde,9,33_9,Gilles Savary,H
+95,Val-d'Oise,4,95_4,Gérard Sebaoun,H
+13,Bouches-du-Rhône,1,13_1,Gérard Oreggia,H
+63,Puy-de-Dôme,5,63_5,Gérard Betenfeld,H
+31,Haute-Garonne,2,31_2,Gérard Bapt,H
+1,Ain,3,01_3,Géraldine Sacchi,F
+75,Paris,15,75_15,George Pau Langevin,F
+58,Nièvre,1,58_1,Gaetan Gorce,H
+13,Bouches-du-Rhône,11,13_11,Gaëlle Lenfant,F
+35,Ille-et-Vilaine,2,35_2,Gaelle Andro,F
+62,Pas-de-Calais,3,62_3,Frédérique Masson,F
+62,Pas-de-Calais,5,62_5,Frédéric Uvillier,H
+34,Hérault,4,34_4,Frédéric Roig,H
+59,Nord,16,59_16,Frédéric Delannoy,H
+25,Doubs,4,25_4,Frédéric Barbier,H
+17,Charente Maritime,3,17_3,Françoise Mesnard,F
+30,Gard,1,30_1,Françoise Dumas,F
+72,Sarthe,1,72_1,Françoise Dubois,F
+78,Yvelines,8,78_8,Françoise Descamps Crosnier,F
+69,Rhône,13,69_13,Françoise Bergame,F
+39,Jura,3,39_3,Françoise Barthoulot,F
+59,Nord,1,59_1,François Lamy,H
+35,Ille-et-Vilaine,3,35_3,François Andre,H
+35,Ille-et-Vilaine,4,35_4,Franck Pichot,H
+32,Gers,1,32_1,Francis Dupouey,H
+75,Paris,12,75_12,Florian Sitbon,H
+29,Finistère,7,29_7,Florence Crom,F
+999,FEHDF,2,999_2,Florence Baillon,F
+34,Hérault,3,34_3,Fanny Dombre Coste,F
+30,Gard,4,30_4,Fabrice Verdier,H
+43,Haute-Loire,1,43_1,Fabrice Farison,H
+75,Paris,4,75_4,Fabrice Dassie,H
+17,Charente Maritime,4,17_4,Fabienne Dugas Raveneau,F
+28,Eure-et-Loir,4,28_4,Fabien Verdier,H
+35,Ille-et-Vilaine,6,35_6,Evelyne Gautier Le Bail,F
+76,Seine-Maritime,9,76_9,Estelle Grelier,F
+38,Isère,8,38_8,Erwann Binet,H
+974,Réunion,1,974_1,Ericka Bareigts,F
+14,Calvados,1,14_1,Eric Veve,H
+67,Bas-Rhin,1,67_1,Eric Elkouby,H
+2B,Corse,1,2B_1,Emmanuelle De Gentili,F
+10,Aube,1,10_1,Emmanuel Provin,H
+35,Ille-et-Vilaine,8,35_8,Emmanuel Couet,H
+79,Deux-Sèvres,1,79_1,Elodie Truong,F
+93,Seine-Saint-Denis,8,93_8,Elisabeth Pochon,F
+93,Seine-Saint-Denis,6,93_6,Elisabeth Guigou,F
+38,Isère,5,38_5,Eliane Giraud,F
+77,Seine-et-Marne,8,77_8,Eduardo Rihan Cypel,F
+44,Loire-Atlantique,4,44_4,Dominique Raimbourg,H
+54,Meurthe-et-Moselle,5,54_5,Dominique Potier,H
+95,Val-d'Oise,10,95_10,Dominique Lefebvre,H
+999,FEHDF,9,999_9,Didier Le Bret,H
+8,Ardennes,3,08_3,Didier Herbillon,H
+41,Loir-et-Cher,2,41_2,Didier Guenin,H
+41,Loir-et-Cher,1,41_1,Denys Robiliard,H
+79,Deux-Sèvres,2,79_2,Delphine Batho,F
+4,Alpes de Haute-Provence,1,04_1,Delphine Bagarry,F
+64,Pyrénées-Atlantiques,3,64_3,David Habib,H
+69,Rhône,12,69_12,David Chizat,H
+10,Aube,3,10_3,David Blanchon,H
+93,Seine-Saint-Denis,10,93_10,Daniel Goldberg,H
+999,FEHDF,10,999_10,Daad Naffi,F
+75,Paris,17,75_17,Colombe Brossel,F
+24,Dordogne,3,24_3,Colette Langlade,F
+64,Pyrénées-Atlantiques,5,64_5,Colette Capdevielle,F
+81,Tarn,2,81_2,Claire Fita,F
+71,Saône-et-Loire,5,71_5,Christophe Sirugue,H
+72,Sarthe,5,72_5,Christophe Rouillon,H
+8,Ardennes,2,08_2,Christophe Leonard,H
+76,Seine-Maritime,5,76_5,Christophe Bouillon,H
+31,Haute-Garonne,9,31_9,Christophe Borgel,H
+63,Puy-de-Dôme,2,63_2,Christine Pires Beaune,F
+59,Nord,21,59_21,Christine Laurent,F
+84,Vaucluse,1,84_1,Christine Lagrange,F
+40,Landes,2,40_2,Christine Basly Lapegue,F
+88,Vosges,4,88_4,Christian Ranqueville,H
+58,Nièvre,2,58_2,Christian Paul,H
+54,Meurthe-et-Moselle,3,54_3,Christian Eckert,H
+59,Nord,14,59_14,Christian Devos,H
+34,Hérault,8,34_8,Christian Assaf,H
+54,Meurthe-et-Moselle,1,54_1,Chaynesse Khirouni,F
+78,Yvelines,1,78_1,Charlotte Rossettini,F
+29,Finistère,5,29_5,Chantal Guittet Raison,F
+92,Hauts-de-Seine,2,92_2,Chantal Barthelemy Ruiz,F
+6,Alpes-Maritimes,5,06_5,Chaama Graillat,F
+84,Vaucluse,3,84_3,Céline Valadier,F
+18,Cher,1,18_1,Céline Bezoui,F
+71,Saône-et-Loire,4,71_4,Cécile Untermaier,F
+83,Var,2,83_2,Cécile Muschotti,F
+83,Var,6,83_6,Cécile Laublet,F
+85,Vendée,1,85_1,Cécile Dreure,F
+63,Puy-de-Dôme,1,63_1,Cécile Audet,F
+33,Gironde,12,33_12,Catherine Veyssy,F
+76,Seine-Maritime,8,76_8,Catherine Troallic,F
+71,Saône-et-Loire,1,71_1,Catherine N'diaye,F
+92,Hauts-de-Seine,8,92_8,Catherine Lime Biffe,F
+31,Haute-Garonne,1,31_1,Catherine Lemorton,F
+30,Gard,3,30_3,Catherine Eysseric,F
+87,Haute-Vienne,3,87_3,Catherine Beaubatie,F
+94,Val-de-Marne,5,94_5,Caroline Adomo,F
+31,Haute-Garonne,6,31_6,Camille Pouponneau,F
+62,Pas-de-Calais,6,62_6,Brigitte Ourguignon,F
+42,Loire,5,42_5,Brigitte Dumoulin,F
+57,Moselle,9,57_9,Brigitte Aisse,F
+40,Landes,3,40_3,Boris Vallaud,H
+62,Pas-de-Calais,4,62_4,Blandine Drain,F
+62,Pas-de-Calais,8,62_8,Bertrand Etit,H
+12,Aveyron,2,12_2,Bertrand Cavalerie,H
+33,Gironde,7,33_7,Bernard Garrigou,H
+19,Corrèze,1,19_1,Bernard Combes,H
+62,Pas-de-Calais,10,62_10,Bernard Ailliau,H
+78,Yvelines,11,78_11,Benoit Hamon,H
+80,Somme,5,80_5,Benjamin Ucas,H
+92,Hauts-de-Seine,13,92_13,Benjamin Lanier,H
+24,Dordogne,4,24_4,Benjamin Delrieux,H
+77,Seine-et-Marne,6,77_6,Bastien Marguerite,H
+25,Doubs,1,25_1,Barbara Romagnan,F
+95,Val-d'Oise,2,95_2,Ayda Hadizadeh,F
+999,FEHDF,3,999_3,Axelle Lemaire,F
+57,Moselle,1,57_1,Aurélie Filipetti,F
+59,Nord,2,59_2,Audrey Linkenheld,F
+10,Aube,2,10_2,Audrey Ait Keddache,F
+59,Nord,5,59_5,Aude Leduc,F
+90,Territoire-de-Belfort,1,90_1,Arthur Courty,H
+55,Meuse,1,55_1,Arnaud Mac Farlane,H
+52,Haute-Marne,2,52_2,Antoine Desfretier,H
+85,Vendée,3,85_3,Anthony Pitalier,H
+13,Bouches-du-Rhône,2,13_2,Annie Levy-mozziconacci,F
+22,Côtes d'Armor,4,22_4,Annie Le Houérou,F
+87,Haute-Vienne,2,87_2,Annick Morizio,F
+75,Paris,3,75_3,Annick Lepetit,F
+34,Hérault,2,34_2,Anne-Yvonne Le Dain,F
+74,Haute-Savoie,4,74_4,Anne Favrelle,F
+13,Bouches-du-Rhône,3,13_3,Anne Di Marino,F
+69,Rhône,4,69_4,Anne Brugnera,F
+44,Loire-Atlantique,7,44_7,Anne Boye,F
+78,Yvelines,6,78_6,Angélique Silly,F
+57,Moselle,5,57_5,Angèle Dufflo,F
+11,Aude,3,11_3,André Viola,H
+78,Yvelines,2,78_2,Amroze Adjuward,H
+63,Puy-de-Dôme,3,63_3,Alphonse Bellonte,H
+78,Yvelines,9,78_9,Alie Mohammad,H
+92,Hauts-de-Seine,1,92_1,Alexis Bachelay,H
+51,Marne,1,51_1,Alexandre Tunc,H
+66,Pyrénées-Orientales,4,66_4,Alexandre Reynal,H
+60,Oise,7,60_7,Alexandre Ouizille,H
+35,Ille-et-Vilaine,7,35_7,Alexandra Thierry,F
+44,Loire-Atlantique,2,44_2,Alain Robert,H
+11,Aude,1,11_1,Alain Ginies,H
+9,Ariège,2,09_2,Alain Faure,H
+33,Gironde,4,33_4,Alain David,H
+15,Cantal,1,15_1,Alain Calmette,H
+18,Cher,2,18_2,Agnès Sinsoulier,F
+59,Nord,17,59_17,Agnès Dupuis,F
