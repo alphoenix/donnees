@@ -1,0 +1,1 @@
+Déplacements effectués par Gérard Collomb, ministre de l'intérieur, et Jacqueline Gourault, ministre auprès du ministre de l'intérieur, depuis leur nomination. Les déplacements de Jacqueline Gourault dans le Loir-et-Cher ont principalement lieu le week-end.
