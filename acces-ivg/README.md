@@ -1,1 +1,25 @@
-** à venir **
+Le xx septembre 2019, a été publié sur Mediapart une enquête sur l'accès à l'avortement. <!-- Dans la foulée, deux déclinaisons locales ont été publiées, sur Mediapart à propos du Loiret et sur Mediacités, concernant la Loire-Atlantique.--> Retrouvez ici l'ensemble des données et le code utilisés pour l'analyse liée à l'enquête.
+
+# Chiffres sur l'IVG
+
+Nous avons réalisé [un tableau de bord par établissement](./etablissements.csv) pour suivre l'activité des établissements et analyser leurs pratiques en matière d'avortements, autour de plusieurs indicateurs : l'évolution dans le temps, le choix dans les méthodes (aspiration ou médicamenteux), la réalisation d'IVG tardives... 
+
+Nous avons utilisé les chiffres de la Statistique annuelle des établissements (SAE) [publiés par la Drees](http://www.data.drees.sante.gouv.fr/ReportFolders/reportFolders.aspx?IF_ActivePath=P,432,433,707 "Drees"), ainsi que [les chiffres de Scan Santé publié par l'Agence technique de l'information sur l'hospitalisation (ATIH)](https://www.scansante.fr/open-ccam-2018 "ATIH") pour comprendre la pratique de l'IVG en France. Ces deux bases utilisent la tarification à l'acte et ses différents codages pour quantifier la pratique de l'avortement en France dans les hôpitaux, ainsi que des actes médicaux associés. Le travail était de compiler les différentes données par année et par établissements en filtrant les actes spécifiques à l'IVG, ainsi que les accouchements, pour évaluer l'activité des établissements.
+
+Dans les bases SAE ont été agrégés les indicateurs liés à la périnatalité, et notamment le nombre d'IVG et la méthode utilisée. Nous avons aussi récupéré les informations sur les personnels pratiquant l'IVG, mais ces chiffres ne semblent pas pertinents et cohérents d'une année sur l'autre.
+
+Les actes pris sur ScanSanté sont [les actes d'aspiration](https://www.ameli.fr/accueil-de-la-ccam/trouver-un-acte/tarification-acte.php?code=JNJD002&date_effet=&activite=0&phase=0) et [la prescription de médicaments](https://www.ameli.fr/accueil-de-la-ccam/trouver-un-acte/tarification-acte.php?code=JNJP001&date_effet=&activite=0&phase=0) qui ne sont pas spécifiques à l'avortement, mais permettent d'identifier les pratiques de certains établissements, notamment les cliniques ne déclarant pas d'IVG.
+
+# Cartographie de l'IVG
+
+Nous avons travaillé [à partir des données publiées par la Drees](http://www.data.drees.sante.gouv.fr/ReportFolders/reportFolders.aspx?IF_ActivePath=P,432,433,707 "Drees"), la SAE pour réaliser une cartographie de l'accès à l'IVG. Nous avons calculé grâce [aux données d'Open Street Map](http://project-osrm.org "OSRM"), [les temps de parcours](./duree_trajets.csv) entre le centre de chaque commune de France avec l'établissement réalisant des IVG par aspiration le plus proche. Ces calculs ont été fait en R, grâce [au travail de Joris Muller](http://github.com/jomuller/finess) et d'autres packages, [dont osrm](https://rgeomatic.hypotheses.org/1798). Les établissements hospitaliers (cliniques et hôpitaux) pratiquent près de huit avortements sur dix en France.
+
+La durée du trajet a été calculée en fonction de l'offre existant en 2013, en 2014, en 2018 ainsi que pour les établissements ayant pratiqué des IVG tardives en 2018. Ce fichier permet de calculer par commune, région ou département le nombre de femmes en âge de procréer (entre 15 et 50 ans) se trouvant plus ou moins loin des établissements hospitaliers. Une colonne donne également le compte du nombre de femmes entre 20 et 35 ans, la population ayant le plus recours à l'avortement. Ces données proviennent du recensement de l'Insee de 2016, sauf pour Mayotte où il date de 2014.
+
+Au niveau national, plus de 1,3 millions de femmes en âge de procréer sont à plus de 30 minutes d'un établissement proposant des avortements par aspiration, soit 11,7% des femmes entre 15 et 50 ans. Plus de 250 000 femmes sont à plus de 45 minutes de voiture. En moyenne, en France également, une femme est à 13 minutes en voiture d'un tel établissement.
+
+# Précisions
+
+Nos calculs et cartes n'intègrent pas les avortements pratiqués «&nbsp;en ville&nbsp;», qui représentaient environ 23% des IVG réalisées en 2018. Nous n'avons obtenu de l'Assurance maladie que des chiffres agrégés. Les [données de la Dress par département](http://www.data.drees.sante.gouv.fr/ReportFolders/reportFolders.aspx?IF_ActivePath=P,473,3647) permettent de se rendre compte localement de l'importance ou non de ces avortements réalisés hors des établissements hospitaliers. Par ailleurs, aucune liste exhaustive n'existe des professionnels pratiquants les IVG «&nbsp;en ville&nbsp;».
+
+Pour cela, nous avons récupéré [les adresses proposées par le site «IVG les adresses»](./ivglesadresses.csv), développé par le Revho et l'ARS d'Île-de-France mais celui-ci n'est pas exhaustif. Plus de 1100 adresses de professionnels ou établissements sont disponibles. Dans certaines régions cependant, très peu d'adresses sont listées (en Bourgogne ou dans le Nord, par exemple).
