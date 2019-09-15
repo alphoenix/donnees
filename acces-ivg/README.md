@@ -1,4 +1,4 @@
-Le xx septembre 2019, a été publié sur Mediapart une enquête sur l'accès à l'avortement. <!-- Dans la foulée, deux déclinaisons locales ont été publiées, sur Mediapart à propos du Loiret et sur Mediacités, concernant la Loire-Atlantique.--> Retrouvez ici l'ensemble des données et le code utilisés pour l'analyse liée à l'enquête.
+Le 15 septembre 2019, a été publié sur Mediapart [une enquête sur l'accès à l'avortement](https://www.mediapart.fr/studio/panoramique/ivg-france-acces-inegal-droit-malmene "Mediapart"). <!-- Dans la foulée, deux déclinaisons locales ont été publiées, sur Mediapart à propos du Loiret et sur Mediacités, concernant la Loire-Atlantique.--> Retrouvez ici l'ensemble des données et le code utilisés pour l'analyse liée à l'enquête.
 
 # Chiffres sur l'IVG
 
